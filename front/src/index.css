@@ -1,0 +1,254 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 36% 95%;
+    --foreground: 20 10% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 25 89% 57%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 15 25% 22%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-barid-background text-foreground;
+    font-family: "Inter", "Helvetica", "Arial", "sans-serif";
+  }
+
+  /* RTL Support */
+  body.rtl {
+    font-family: "Cairo", "Arial", "sans-serif";
+  }
+
+  /* RTL Support - Only direction, no alignment changes */
+  .rtl {
+    direction: rtl;
+  }
+
+  /* Force LTR direction for specific problematic sliders only */
+  .rtl .partners-slider .overflow-x-auto,
+  .rtl .partners-slider .scroll-container,
+  .rtl .partners-slider [class*="slider"],
+  .rtl .partners-slider [class*="carousel"] {
+    direction: ltr !important;
+  }
+
+  /* Ensure partner slider content flows left-to-right even in RTL */
+  .rtl .partners-slider .flex.overflow-x-auto > * {
+    direction: ltr !important;
+  }
+
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Force RTL text direction for hero section */
+  .hero-rtl {
+    direction: rtl !important;
+    text-align: right !important;
+  }
+
+  /* Force RTL for all Arabic text in hero */
+  .hero-rtl h1,
+  .hero-rtl button {
+    direction: rtl !important;
+    text-align: right !important;
+    unicode-bidi: bidi-override !important;
+  }
+
+  /* Force center alignment for specific elements */
+  .force-center {
+    text-align: center !important;
+    direction: ltr !important;
+    unicode-bidi: normal !important;
+  }
+}
+
+@layer components {
+  .btn-orange {
+    @apply bg-barid-orange text-white font-semibold rounded-md py-3 px-6 inline-flex items-center gap-2 hover:bg-[#d96415] transition-colors duration-300;
+  }
+
+  .btn-rounded {
+    @apply rounded-full py-1.5 px-5;
+  }
+
+  .service-card {
+    @apply transition-all duration-300 hover:shadow-lg hover:-translate-y-1.5;
+  }
+
+  .faq-item {
+    @apply border-b-2 border-gray-200 py-4 cursor-pointer;
+  }
+
+  .faq-question {
+    @apply font-semibold text-base text-gray-800 mb-1;
+  }
+
+  .faq-answer {
+    @apply text-gray-600 text-sm overflow-hidden max-h-0 transition-all duration-300;
+  }
+
+  .faq-item.open .faq-answer {
+    @apply max-h-48 mt-2;
+  }
+
+  /* Hide scrollbar but keep functionality */
+  .hide-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none; /* Chrome, Safari and Opera */
+  }
+
+  /* Animation classes */
+  .animate-on-scroll {
+    @apply transition-all duration-700;
+  }
+
+  .animate-on-scroll.animate-in {
+    @apply opacity-100 translate-y-0 translate-x-0;
+  }
+
+  .animate-fade-in {
+    @apply opacity-0 transition-opacity duration-500;
+  }
+
+  .animate-fade-in.animate-in {
+    @apply opacity-100;
+  }
+
+  /* Fix accordion scroll behavior */
+  [data-radix-accordion-trigger] {
+    scroll-margin: 0;
+    scroll-behavior: auto !important;
+  }
+
+  [data-radix-accordion-content] {
+    scroll-margin: 0;
+  }
+
+  /* Prevent automatic scrolling on accordion interaction */
+  .accordion-no-scroll {
+    scroll-behavior: auto !important;
+  }
+
+  /* Ensure single click handling */
+  [data-radix-accordion-trigger]:active {
+    pointer-events: none;
+  }
+
+  /* Override Tailwind's lg:text-6xl line-height for Arabic text */
+  .rtl .lg\:text-6xl {
+    line-height: 1.2 !important;
+  }
+
+  /* Override for Arabic language specifically */
+  [lang="ar"] .lg\:text-6xl {
+    line-height: 1.2 !important;
+  }
+
+  /* Override Tailwind's lg:text-5xl line-height for Arabic text */
+  .rtl .lg\:text-5xl {
+    line-height: 1.2 !important;
+  }
+
+  /* Override for Arabic language specifically */
+  [lang="ar"] .lg\:text-5xl {
+    line-height: 1.2 !important;
+  }
+
+  /* Override Tailwind's lg:text-7xl line-height for Arabic text */
+  .rtl .lg\:text-7xl {
+    line-height: 1.2 !important;
+  }
+
+  /* Override for Arabic language specifically */
+  [lang="ar"] .lg\:text-7xl {
+    line-height: 1.2 !important;
+  }
+
+  /* Override Tailwind's lg:text-8xl line-height for Arabic text */
+  .rtl .lg\:text-8xl {
+    line-height: 1.2 !important;
+  }
+
+  /* Override for Arabic language specifically */
+  [lang="ar"] .lg\:text-8xl {
+    line-height: 1.2 !important;
+  }
+
+  /* Force phone numbers to display left-to-right in RTL */
+  .phone-number {
+    direction: ltr !important;
+    unicode-bidi: bidi-override !important;
+    display: inline-block;
+  }
+
+  /* Fix dialog close button position for RTL */
+  [dir="rtl"] [data-radix-dialog-content] button[data-radix-dialog-close] {
+    right: auto !important;
+    left: 1rem !important;
+  }
+
+  /* Alternative selector for dialog close button */
+  [dir="rtl"] .absolute.right-4.top-4 {
+    right: auto !important;
+    left: 1rem !important;
+  }
+
+  /* More specific selector for dialog close button */
+  [dir="rtl"] [data-radix-dialog-content] .absolute.right-4.top-4 {
+    right: auto !important;
+    left: 1rem !important;
+  }
+
+  /* Even more specific - target the exact button */
+  [dir="rtl"] [data-radix-dialog-content] button.absolute.right-4.top-4 {
+    right: auto !important;
+    left: 1rem !important;
+  }
+
+  /* Hide the default dialog close button since we're using a custom one */
+  [data-radix-dialog-content] [data-radix-dialog-close] {
+    display: none !important;
+  }
+}

@@ -1,0 +1,3672 @@
+{
+  "nav": {
+    "nousConnaitre": "Nous connaître",
+    "nosServices": "Nos Services",
+    "devenezMandataire": "Devenez mandataire",
+    "serviceClient": "Service Client",
+    "nosPointsDeVente": "Nos points de vente",
+    "quiSommesNous": "Qui sommes nous",
+    "motDirecteur": "Mot du Directeur Général",
+    "nousRejoindre": "Nous rejoindre",
+    "nosPartenaires": "Nos partenaires",
+    "actualites": "Actualités",
+    "vosQuestions": "Vos questions",
+    "grilleTarifairePage": "Grille tarifaire",
+    "nousContacter": "Nous contacter"
+  },
+  "search": {
+    "title": "Rechercher",
+    "placeholder": "Recherchez nos services...",
+    "noResults": "Aucun résultat trouvé pour \"{query}\"",
+    "startTyping": "Commencez à taper pour rechercher nos services"
+  },
+  "grilleTarifairePage": {
+    "hero": {
+      "title": "Grille tarifaire",
+      "description": "Découvrez notre grille tarifaire pour tous nos services."
+    },
+    "footerText": "Pour toute information supplémentaire, visitez nos réseaux sociaux :",
+    "nationalTransfer": {
+      "title": "TRANSFERT D'ARGENT NATIONAL MANDATI EXPRESS",
+      "free": "Gratuit",
+      "headers": {
+        "amountRange": "Tranches d'envoi",
+        "smsPrice": "Tarif SMS",
+        "fees": "Tarif"
+      },
+      "rows": [
+        {
+          "range": "0 - 50 Dhs",
+          "fee": "5 Dhs"
+        },
+        {
+          "range": "51 - 100 Dhs",
+          "fee": "10 Dhs"
+        },
+        {
+          "range": "101 - 200 Dhs",
+          "fee": "24 Dhs"
+        },
+        {
+          "range": "201 - 500 Dhs",
+          "fee": "33 Dhs"
+        },
+        {
+          "range": "501 - 1 000 Dhs",
+          "fee": "37 Dhs"
+        },
+        {
+          "range": "1 001 - 2 000 Dhs",
+          "fee": "45 Dhs"
+        },
+        {
+          "range": "2 001 - 3 000 Dhs",
+          "fee": "47 Dhs"
+        },
+        {
+          "range": "3 001 - 4 000 Dhs",
+          "fee": "53 Dhs"
+        },
+        {
+          "range": "4 001 - 5 000 Dhs",
+          "fee": "56 Dhs"
+        },
+        {
+          "range": "5 001 - 10 000 Dhs",
+          "fee": "65 Dhs"
+        },
+        {
+          "range": "Sup à 10 000 Dhs",
+          "fee": "0.65% du montant"
+        }
+      ]
+    },
+    "internationalTransfer": {
+      "title": "ENVOI D'ARGENT À L'INTERNATIONAL VIA WESTERN UNION",
+      "headers": {
+        "amountRange": "Tranches d'envoi",
+        "fees": "Tarif"
+      },
+      "rows": [
+        {
+          "range": "0 à 50 Dhs",
+          "fee": "5 Dhs"
+        },
+        {
+          "range": "51 à 100 Dhs",
+          "fee": "10 Dhs"
+        },
+        {
+          "range": "101 à 200 Dhs",
+          "fee": "24 Dhs"
+        },
+        {
+          "range": "201 à 500 Dhs",
+          "fee": "33 Dhs"
+        },
+        {
+          "range": "501 à 1000 Dhs",
+          "fee": "37 Dhs"
+        },
+        {
+          "range": "1001 à 2000 Dhs",
+          "fee": "45 Dhs"
+        },
+        {
+          "range": "2001 à 3000 Dhs",
+          "fee": "47 Dhs"
+        },
+        {
+          "range": "3001 à 4000 Dhs",
+          "fee": "53 Dhs"
+        },
+        {
+          "range": "4001 à 5000 Dhs",
+          "fee": "56 Dhs"
+        },
+        {
+          "range": "5001 à 10000 Dhs",
+          "fee": "65 Dhs"
+        },
+        {
+          "range": "Sup à 10000 Dhs",
+          "fee": "0.65% du montant"
+        }
+      ]
+    },
+    "moneyGramTransfer": {
+      "title": "ENVOI D'ARGENT À L'INTERNATIONAL VIA MONEY GRAM",
+      "headers": {
+        "amountRange": "Tranches d'envoi",
+        "fees": "Tarif"
+      },
+      "rows": [
+        {
+          "range": "0 à 50 Dhs",
+          "fee": "5 Dhs"
+        },
+        {
+          "range": "51 à 100 Dhs",
+          "fee": "10 Dhs"
+        },
+        {
+          "range": "101 à 200 Dhs",
+          "fee": "24 Dhs"
+        },
+        {
+          "range": "201 à 500 Dhs",
+          "fee": "33 Dhs"
+        },
+        {
+          "range": "501 à 1000 Dhs",
+          "fee": "37 Dhs"
+        },
+        {
+          "range": "1001 à 2000 Dhs",
+          "fee": "45 Dhs"
+        },
+        {
+          "range": "2001 à 3000 Dhs",
+          "fee": "47 Dhs"
+        },
+        {
+          "range": "3001 à 4000 Dhs",
+          "fee": "53 Dhs"
+        },
+        {
+          "range": "4001 à 5000 Dhs",
+          "fee": "56 Dhs"
+        },
+        {
+          "range": "5001 à 10000 Dhs",
+          "fee": "65 Dhs"
+        },
+        {
+          "range": "Sup à 10000 Dhs",
+          "fee": "0.65% du montant"
+        }
+      ]
+    },
+    "billPaymentServices": {
+      "title": "PAIEMENT DE FACTURES",
+      "categories": {
+        "telecom": {
+          "title": "Télécommunications",
+          "services": {
+            "marocTelecom": "Maroc Telecom",
+            "orange": "Orange",
+            "inwi": "Inwi"
+          }
+        },
+        "waterElectricity": {
+          "title": "Eau et Électricité",
+          "services": {
+            "redal": "REDAL",
+            "lydec": "LYDEC",
+            "amendis": "AMENDIS",
+            "radeema": "RADEEMA",
+            "radeel": "RADEEL",
+            "regieEauElectricite": "Régie de l'eau et de l'électricité",
+            "onee": "ONEE",
+            "onep": "ONEP"
+          }
+        },
+        "taxes": {
+          "title": "Impôts et Taxes",
+          "services": {
+            "tgr": "Trésor Général du Royaume",
+            "dgi": "Direction Générale des Impôts"
+          }
+        }
+      }
+    },
+    "paymentAccountServices": {
+      "title": "SERVICES COMPTE DE PAIEMENT",
+      "transferAndRemittance": "Transfert et Virement",
+      "operations": {
+        "deposit": {
+          "title": "Dépôt",
+          "byHolder": "Par le titulaire",
+          "byThirdParty": "Par un tiers"
+        },
+        "withdrawal": {
+          "title": "Retrait",
+          "byHolder": "Par le titulaire",
+          "byThirdParty": "Par un tiers"
+        }
+      },
+      "sections": {
+        "depositOnAccount": {
+          "title": "Dépôt sur compte en agence",
+          "headers": {
+            "deposit": "Dépôt",
+            "byHolder": "Par le titulaire",
+            "byThirdParty": "Par une tierce personne"
+          },
+          "rows": [
+            {
+              "range": "0 à 200 Dhs",
+              "holderFee": "Gratuit*",
+              "thirdPartyFee": "15 Dhs"
+            },
+            {
+              "range": "201 à 500 Dhs",
+              "holderFee": "Gratuit*",
+              "thirdPartyFee": "15 Dhs"
+            },
+            {
+              "range": "501 à 1000 Dhs",
+              "holderFee": "Gratuit*",
+              "thirdPartyFee": "15 Dhs"
+            },
+            {
+              "range": "1001 à 2000 Dhs",
+              "holderFee": "Gratuit*",
+              "thirdPartyFee": "15 Dhs"
+            },
+            {
+              "range": "2001 à 3000 Dhs",
+              "holderFee": "Gratuit*",
+              "thirdPartyFee": "15 Dhs"
+            },
+            {
+              "range": "3001 à 4000 Dhs",
+              "holderFee": "Gratuit*",
+              "thirdPartyFee": "15 Dhs"
+            },
+            {
+              "range": "4001 à 5000 Dhs",
+              "holderFee": "Gratuit*",
+              "thirdPartyFee": "15 Dhs"
+            },
+            {
+              "range": "5001 à 10000 Dhs",
+              "holderFee": "Gratuit*",
+              "thirdPartyFee": "15 Dhs"
+            },
+            {
+              "range": "Sup à 10000 Dhs",
+              "holderFee": "Gratuit*",
+              "thirdPartyFee": "15 Dhs"
+            }
+          ],
+          "note": "*Hors frais de timbre"
+        },
+        "withdrawalOnAccount": {
+          "title": "Retrait sur compte en agence",
+          "headers": {
+            "withdrawal": "Retrait",
+            "fees": "Tarif"
+          },
+          "rows": [
+            {
+              "range": "0 à 200 Dhs",
+              "fee": "Gratuit*"
+            },
+            {
+              "range": "201 à 500 Dhs",
+              "fee": "Gratuit*"
+            },
+            {
+              "range": "501 à 1000 Dhs",
+              "fee": "Gratuit*"
+            },
+            {
+              "range": "1001 à 2000 Dhs",
+              "fee": "Gratuit*"
+            },
+            {
+              "range": "2001 à 3000 Dhs",
+              "fee": "Gratuit*"
+            },
+            {
+              "range": "3001 à 4000 Dhs",
+              "fee": "Gratuit*"
+            },
+            {
+              "range": "4001 à 5000 Dhs",
+              "fee": "Gratuit*"
+            },
+            {
+              "range": "5001 à 10000 Dhs",
+              "fee": "Gratuit*"
+            },
+            {
+              "range": "Sup à 10000 Dhs",
+              "fee": "Gratuit*"
+            }
+          ],
+          "note": "*Hors frais de timbre"
+        }
+      }
+    },
+    "depositWithdrawal": {
+      "title": "DÉPÔT ET RETRAIT",
+      "headers": {
+        "amountRange": "Tranches d'envoi",
+        "fees": "Tarif"
+      },
+      "rows": [
+        {
+          "range": "0 à 200 Dhs",
+          "fee": "2 Dhs"
+        },
+        {
+          "range": "201 à 500 Dhs",
+          "fee": "5 Dhs"
+        },
+        {
+          "range": "501 à 1000 Dhs",
+          "fee": "10 Dhs"
+        },
+        {
+          "range": "1001 à 2000 Dhs",
+          "fee": "16 Dhs"
+        },
+        {
+          "range": "2001 à 3000 Dhs",
+          "fee": "20 Dhs"
+        },
+        {
+          "range": "3001 à 4000 Dhs",
+          "fee": "30 Dhs"
+        },
+        {
+          "range": "4001 à 5000 Dhs",
+          "fee": "40 Dhs"
+        },
+        {
+          "range": "5001 à 6000 Dhs",
+          "fee": "50 Dhs"
+        },
+        {
+          "range": "6001 à 7000 Dhs",
+          "fee": "60 Dhs"
+        },
+        {
+          "range": "7001 à 8000 Dhs",
+          "fee": "65 Dhs"
+        },
+        {
+          "range": "8001 à 10000 Dhs",
+          "fee": "75 Dhs"
+        },
+        {
+          "range": "10001 à 15000 Dhs",
+          "fee": "85 Dhs"
+        },
+        {
+          "range": "15001 à 20000 Dhs",
+          "fee": "90 Dhs"
+        }
+      ]
+    },
+    "mobileEmission": {
+      "title": "FARIFS DE L'ÉMISSION MOBILE VERS AGENCE OU VERS GAB « RETRAIT CARDLESS »",
+      "headers": {
+        "amountRange": "Tranches montants",
+        "fees": "Tarif"
+      },
+      "rows": [
+        {
+          "range": "0 à 50 Dhs",
+          "fee": "3 Dhs"
+        },
+        {
+          "range": "51 à 100 Dhs",
+          "fee": "5 Dhs"
+        },
+        {
+          "range": "101 à 200 Dhs",
+          "fee": "15 Dhs"
+        },
+        {
+          "range": "201 à 500 Dhs",
+          "fee": "24 Dhs"
+        },
+        {
+          "range": "501 à 1000 Dhs",
+          "fee": "27 Dhs"
+        },
+        {
+          "range": "1001 à 2000 Dhs",
+          "fee": "32 Dhs"
+        },
+        {
+          "range": "2001 à 3000 Dhs",
+          "fee": "32 Dhs"
+        },
+        {
+          "range": "3001 à 4000 Dhs",
+          "fee": "38 Dhs"
+        },
+        {
+          "range": "4001 à 5000 Dhs",
+          "fee": "38 Dhs"
+        },
+        {
+          "range": "5001 à 10000 Dhs",
+          "fee": "45 Dhs"
+        }
+      ]
+    },
+    "fissa3Card": {
+      "title": "LES SERVICES LIÉS À LA CARTE DE PAIEMENT FISSA3",
+      "headers": {
+        "service": "Service",
+        "fees": "Tarif"
+      },
+      "rows": [
+        {
+          "service": "Abonnement carte Visa 3",
+          "fee": "60 Dhs / 2 ans"
+        },
+        {
+          "service": "Opposition sur la carte et réinitialisation du code PIN",
+          "fee": "Gratuit"
+        },
+        {
+          "service": "Recalcul du code PIN",
+          "fee": "Gratuit"
+        }
+      ]
+    },
+    "moneticCardRecharge": {
+      "title": "RECHARGE COMPTE PAR CARTE MONÉTIQUE",
+      "headers": {
+        "amountRange": "Tranches d'envoi",
+        "fees": "Tarif"
+      },
+      "rows": [
+        {
+          "range": "0 à 500 Dhs",
+          "fee": "5 Dhs"
+        },
+        {
+          "range": "501 à 1000 Dhs",
+          "fee": "6 Dhs"
+        },
+        {
+          "range": "1001 à 2000 Dhs",
+          "fee": "12 Dhs"
+        },
+        {
+          "range": "2001 à 3000 Dhs",
+          "fee": "18 Dhs"
+        },
+        {
+          "range": "3001 à 4000 Dhs",
+          "fee": "22 Dhs"
+        },
+        {
+          "range": "4001 à 5000 Dhs",
+          "fee": "28 Dhs"
+        }
+      ]
+    },
+    "amanaServices": {
+      "title": "Service Amana",
+      "categories": {
+        "ecommerce": {
+          "title": "Amana E-commerce",
+          "headers": {
+            "weightRange": "Tranches de poids",
+            "intraCity": "Intra-ville",
+            "interCity": "Inter-ville"
+          },
+          "rows": [
+            {
+              "weightRange": "0,01 - 2 kg",
+              "intraCityHome": "30 Dhs",
+              "intraCityPoint": "25 Dhs",
+              "interCityHome": "40 Dhs",
+              "interCityPoint": "35 Dhs"
+            },
+            {
+              "weightRange": "2,01 - 5 kg",
+              "intraCityHome": "35 Dhs",
+              "intraCityPoint": "30 Dhs",
+              "interCityHome": "45 Dhs",
+              "interCityPoint": "40 Dhs"
+            },
+            {
+              "weightRange": "5,01 - 10 kg",
+              "intraCityHome": "40 Dhs",
+              "intraCityPoint": "35 Dhs",
+              "interCityHome": "55 Dhs",
+              "interCityPoint": "50 Dhs"
+            },
+            {
+              "weightRange": "10,01 - 15 kg",
+              "intraCityHome": "55 Dhs",
+              "intraCityPoint": "50 Dhs",
+              "interCityHome": "75 Dhs",
+              "interCityPoint": "70 Dhs"
+            },
+            {
+              "weightRange": "15,01 - 31 kg",
+              "intraCityHome": "75 Dhs",
+              "intraCityPoint": "70 Dhs",
+              "interCityHome": "95 Dhs",
+              "interCityPoint": "90 Dhs"
+            }
+          ]
+        },
+        "public": {
+          "title": "Amana Grand Public",
+          "headers": {
+            "weightRange": "Tranches de poids",
+            "fees": "Tarif"
+          },
+          "rows": [
+            {
+              "weightRange": "0,01 - 1 kg",
+              "fee": "55 Dhs"
+            },
+            {
+              "weightRange": "1,01 - 5 kg",
+              "fee": "58 Dhs"
+            },
+            {
+              "weightRange": "5,01 - 10 kg",
+              "fee": "65 Dhs"
+            },
+            {
+              "weightRange": "10,01 - 15 kg",
+              "fee": "85 Dhs"
+            },
+            {
+              "weightRange": "15,01 - 25 kg",
+              "fee": "111 Dhs"
+            },
+            {
+              "weightRange": "25,01 - 31 kg",
+              "fee": "120 Dhs"
+            }
+          ]
+        },
+        "sevenDays": {
+          "title": "Amana 7 jours (de magasin à magasin)",
+          "headers": {
+            "weightRange": "Tranche de poids",
+            "intraCity": "Intra-ville",
+            "interCity": "Inter-ville"
+          },
+          "rows": [
+            {
+              "weightRange": "0,01 à 2 kg",
+              "intraCity": "30 Dhs",
+              "interCity": "40 Dhs"
+            },
+            {
+              "weightRange": "2,01 à 5 kg",
+              "intraCity": "35 Dhs",
+              "interCity": "45 Dhs"
+            },
+            {
+              "weightRange": "5,01 à 10 kg",
+              "intraCity": "45 Dhs",
+              "interCity": "55 Dhs"
+            },
+            {
+              "weightRange": "10,01 à 15 kg",
+              "intraCity": "55 Dhs",
+              "interCity": "65 Dhs"
+            }
+          ]
+        }
+      }
+    },
+    "partnerProducts": {
+      "title": "Produits des organismes/partenaires",
+      "narsa": {
+        "title": "NARSA",
+        "headers": {
+          "product": "Produits des organismes",
+          "fees": "Tarif"
+        },
+        "rows": [
+          {
+            "product": "Permis de conduire",
+            "fee": "Gratuit"
+          },
+          {
+            "product": "Carte grise",
+            "fee": "Gratuit"
+          },
+          {
+            "product": "Réclamation d'infractions",
+            "fee": "Gratuit"
+          }
+        ]
+      }
+    },
+    "insurance": {
+      "title": "Assurance globale",
+      "hospitalization": {
+        "title": "Hospitalisation",
+        "headers": {
+          "formula": "Formule",
+          "dailyCompensation": "Indemnité journalière",
+          "fees": "Tarif"
+        },
+        "rows": [
+          {
+            "formula": "1",
+            "dailyCompensation": "100 Dhs",
+            "fees": "80 Dhs"
+          },
+          {
+            "formula": "2",
+            "dailyCompensation": "200 Dhs",
+            "fees": "116 Dhs"
+          },
+          {
+            "formula": "3",
+            "dailyCompensation": "250 Dhs",
+            "fees": "171.5 Dhs"
+          },
+          {
+            "formula": "4",
+            "dailyCompensation": "400 Dhs",
+            "fees": "275 Dhs"
+          }
+        ]
+      },
+      "funeral": {
+        "title": "Funérailles",
+        "headers": {
+          "formula": "Formule",
+          "compensation": "Indemnité",
+          "fees": "Tarif"
+        },
+        "rows": [
+          {
+            "formula": "1",
+            "compensation": "5000 Dhs",
+            "fees": "45 Dhs"
+          },
+          {
+            "formula": "2",
+            "compensation": "10000 Dhs",
+            "fees": "52 Dhs"
+          },
+          {
+            "formula": "3",
+            "compensation": "15000 Dhs",
+            "fees": "88 Dhs"
+          },
+          {
+            "formula": "4",
+            "compensation": "20000 Dhs",
+            "fees": "112 Dhs"
+          }
+        ]
+      }
+    }
+  },
+  "estimateFees": {
+    "title": "ESTIMEZ LES FRAIS",
+    "titleLine2": "DE VOS TRANSFERTS.",
+    "national": "NATIONAL",
+    "international": "INTERNATIONAL",
+    "amountPlaceholder": "Montant de l'envoi",
+    "feesPlaceholder": "Frais à payer",
+    "calculateButton": "CALCULEZ LES FRAIS D'ENVOI",
+    "viaWesternUnion": "VIA WESTERN UNION",
+    "viaMoneyGram": "VIA MONEYGRAM"
+  },
+  "transferInternational": {
+    "hero": {
+      "title": "Transfert d'argent international : une multitude de partenaires de renom international",
+      "description": "Avec Barid Cash, recevoir ou envoyer de l'argent n'a jamais été aussi rapide et sécurisé."
+    },
+    "baridCash": {
+      "title": "Envoi d'argent vers l'étranger",
+      "description": "Barid Cash vous permet de soutenir votre famille à l'étranger en envoyant jusqu'à 10 000 DH par an depuis le Maroc vers le monde entier. Il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous muni de votre carte nationale ou carte de séjour."
+    },
+    "faq": {
+      "title": "Nos tarifs pour l'envoi à l'international",
+      "amountPlaceholder": "Montant de l'envoi",
+      "feesPlaceholder": "Frais à payer",
+      "calculateButton": "CALCULEZ LES FRAIS D'ENVOI",
+      "viaWesternUnion": "VIA WESTERN UNION",
+      "viaMoneyGram": "VIA MONEYGRAM"
+    },
+    "partners": {
+      "title": "Nos Partenaires"
+    },
+    "partnersSection": {
+      "title": "Réception d'argent de l'étranger",
+      "description": "Avec Barid Cash, vous pouvez recevoir de l'argent de l'étranger rapidement et en toute sécurité grâce à notre large réseau de partenaires."
+    },
+    "faqContent": {
+      "title": "Nous répondons à vos questions",
+      "sendingMoney": {
+        "title": "Envoi d'argent",
+        "q1": "Vous vous demandez si Barid Cash vous permet d'envoyer de l'argent à votre enfant à l'étranger ?",
+        "a1": "La réponse est oui, Barid Cash vous permet d'envoyer jusqu'à 10 000 Dhs par an à votre enfant, depuis le Maroc vers l'étranger.",
+        "q2": "Vous vous demandez si vous pouvez encaisser un mandat international sur votre compte de paiement ?",
+        "a2": "La réponse est oui, vous pouvez encaisser les mandats Dirhams express directement sur votre compte de paiement."
+      },
+      "receivingMoney": {
+        "title": "Réception d'argent",
+        "q1": "Vous vous demandez comment récupérer l'argent que vous avez reçu de l'étranger ?",
+        "a1": "Il vous suffit de vous rendre dans l'agence Barid Cash la plus proche, muni de votre carte d'identité en cours de validité et du code de transfert.",
+        "q2": "Vous vous demandez dans quelle devise vous allez recevoir votre transfert ?",
+        "a2": "Tous les transferts d'argent sont servis en Dirham marocain."
+      }
+    }
+  },
+  "hero": {
+    "title": "Envoyez et recevez de l'argent",
+    "cta": "Découvrir"
+  },
+  "actualites": {
+    "hero": {
+      "title": "BARID CASH ET L'AMICALE DES AGENTS ATLANTASANAD",
+      "titleOrange": "SIGNENT UN PARTENARIAT STRATÉGIQUE",
+      "description": "Casablanca, Maroc - le 18 Juillet 2024 - BARID CASH, Établissement de Paiement agréé par BANK AL MAGHRIB, et l'Amicale des Agents AtlantaSanad, Association des Agents Généraux de la Compagnie...",
+      "cta": "Lire le communiqué",
+      "downloadCta": "Télécharger",
+      "imageAlt": "Partenariat Barid Cash et AtlantasanaD"
+    },
+    "second": {
+      "title": "BARID CASH et l'ASSOCIATION DES AGENTS GENERAUX AXA ASSURANCE MAROC",
+      "titleBlack": "SIGNENT UNE CONVENTION DE PARTENARIAT",
+      "description": "Casablanca, le 13 novembre 2024 - Barid Cash poursuit son expansion dans le secteur des services financiers en signant une convention de partenariat avec l'Association des Agents Généraux AXA Assurance Maroc (AGIR)...",
+      "cta": "Lire le communiqué",
+      "downloadCta": "Télécharger",
+      "imageAlt": "Partenariat Barid Cash et AXA Assurance"
+    },
+    "third": {
+      "title": "BARID CASH ET LA FNACAM S'ALLIENT",
+      "titleOrange": "AUTOUR D'UN PARTENARIAT STRATÉGIQUE",
+      "description": "Casablanca, le 07 novembre 2024 - BARID CASH, Établissement de Paiement, officialise un partenariat stratégique avec la Fédération Nationale des Agents et Courtiers d'Assurance au Maroc (FNACAM). Cet accord...",
+      "cta": "Lire le communiqué",
+      "downloadCta": "Télécharger",
+      "imageAlt": "Partenariat Barid Cash et FNACAM"
+    },
+    "newsSection": {
+      "title": "ACTUALITÉS",
+      "cta": "Lire le communiqué"
+    }
+  },
+  "transferNational": {
+    "hero": {
+      "title": "Vos transferts d'argent en toute sécurité et au meilleur tarif !",
+      "description": "Barid Cash met à votre disposition son service de transfert d'argent au niveau national Mandati Express. Alliant rapidité, sécurité et tarification avantageuse, il vous permet d'envoyer ou de recevoir instantanément de l'argent dans tout le Maroc et ce à partir de 5 dhs seulement !"
+    },
+    "sectionTitle": "Disponible dans l'ensemble du réseau Barid Cash, Mandati Express est :",
+    "advantages": {
+      "rapid": {
+        "title": "Rapide",
+        "description": "L'argent est immédiatement mis à la disposition du bénéficiaire dans toutes les agences de Barid Cash et d'Al Barid Bank, partout au Maroc, à travers son compte Barid Cash."
+      },
+      "advantageous": {
+        "title": "Avantageux en matière de tarification",
+        "description": "Le transfert d'argent Mandati Express est disponible à partir de 5 Dhs TTC seulement. La notification par SMS est gratuite !"
+      },
+      "secure": {
+        "title": "Sécurisé",
+        "description": "Tous les transferts sont réalisés via le réseau postal qui en garantit la fiabilité et la sécurité."
+      }
+    },
+    "faq": {
+      "title": "Mandati Express, nos tarifs exceptionnels rien que pour vous !",
+      "description": "Mandati Express, à partir de 5 Dhs seulement !"
+    }
+  },
+  "services": {
+    "transferNational": {
+      "title": "Transfert d'argent national",
+      "description": "Découvrez les avantages de notre service de transfert d'argent national Mandati Express."
+    },
+    "transferInternational": {
+      "title": "Transfert d'argent international",
+      "description": "Recevez votre argent de l'étranger avec facilité, efficacité et fiabilité."
+    },
+    "changeDevises": {
+      "title": "Change de devises",
+      "description": "Bénéficiez d'un taux de change compétitif."
+    },
+    "ouvertureCompte": {
+      "title": "Ouverture de compte",
+      "description": "Découvrez le compte de paiement qui vous convient."
+    },
+    "baridPay": {
+      "title": "BARID PAY",
+      "description": "Découvrez notre application mobile sécurisée et facile d'utilisation."
+    },
+    "carteMonetique": {
+      "title": "Carte monétique",
+      "description": "Découvrez les avantages de la carte monétique ralliée à votre compte Barid Cash."
+    },
+    "taxes": {
+      "title": "TVA, IS, IR, vignette auto",
+      "description": "Payez vos impôts et taxes en agence Barid Cash."
+    },
+    "eTimbre": {
+      "title": "E-timbre",
+      "description": "Payez votre e-timbre avec Barid Cash pour votre passeport, permis de port d'arme et permis de chasse."
+    },
+    "rokhas": {
+      "title": "ROKHAS",
+      "description": "Payez vos indemnités Rokhas chez Barid Cash."
+    },
+    "paiementFactures": {
+      "title": "Paiement de factures",
+      "description": "Payez vos factures d'eau, d'électricité et télécom avec Barid Cash."
+    },
+    "paiementPartenaires": {
+      "title": "Paiement partenaires",
+      "description": "Payez vos achats en ligne avec Barid Cash."
+    },
+    "servicesNARSA": {
+      "title": "Services NARSA",
+      "description": "Découvrez les produits de la NARSA disponibles en exclusivité chez Barid Cash."
+    },
+    "amana": {
+      "title": "Amana",
+      "description": "Découvrez les services Amana pour l'envoi de vos colis."
+    },
+    "chronopost": {
+      "title": "Chronopost",
+      "description": "Découvrez le service de livraison Chronopost."
+    },
+    "servicesCNSS": {
+      "title": "Services CNSS",
+      "description": "Découvrez les services CNSS disponibles dans nos agences Barid Cash."
+    },
+    "produitsAssurance": {
+      "title": "Produits d'assurance",
+      "description": "Découvrez notre offre de produits d'assurance."
+    }
+  },
+  "advantages": {
+    "title": "NOS AVANTAGES",
+    "security": {
+      "title": "LA SÉCURITÉ DES OPÉRATIONS",
+      "content": "Barid Cash garantit la sécurité totale de vos transactions financières grâce à des protocoles de sécurité avancés."
+    },
+    "instant": {
+      "title": "UN SERVICE INSTANTANÉ",
+      "content": "Barid Cash vous permet de réaliser vos opérations de manière rapide en toute simplicité."
+    },
+    "fees": {
+      "title": "DES FRAIS ÉTUDIÉS",
+      "content": "Nos tarifs sont transparents et compétitifs pour tous vos transferts et opérations financières."
+    },
+    "proximity": {
+      "title": "UNE PROXIMITÉ DE NOS AGENCES",
+      "content": "Notre réseau d'agences couvre tout le pays pour vous offrir un service de proximité où que vous soyez."
+    }
+  },
+  "download": {
+    "title": "Télécharger l'application BaridPay",
+    "subtitle": "Et vous pouvez aussi payer via l'application Barid Pay",
+    "downloadOn": "Télécharger sur",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "transferTitle": "Barid PAY : faites vos transferts d'argent en toute sécurité et en quelques clics !",
+    "transferDescription": "Et vous pouvez aussi payer via l'application Barid Pay"
+  },
+  "partners": {
+    "title": "Nos partenaires",
+    "heroTitle": "Nos partenaires",
+    "heroDescription": "Barid Cash s'allie avec de nombreux partenaires dans différents domaines pour offrir une large gamme de services à proximité de ses clients.",
+    "multitudeTitle": "Une multitude de partenaires prestigieux",
+    "discoverButton": "Découvrez tous nos partenaires",
+    "categories": {
+      "transferArgent": "Transfert d'argent",
+      "paiementFacturesEau": "Paiement des factures d'eau et d'électricité",
+      "paiementFacturesTelecoms": "Paiement des factures de télécommunications",
+      "transport": "Transport",
+      "partenairesGouvernementaux": "Partenaires gouvernementaux",
+      "servicesPostaux": "Services postaux",
+      "etBienPlus": "Et bien plus"
+    },
+    "simulationTitle": "Faites votre simulation dès maintenant !",
+    "amountPlaceholder": "Montant de l'envoi",
+    "calculateButton": "CALCULEZ LES FRAIS D'ENVOI",
+    "feesPlaceholder": "Frais à payer",
+    "qualityTitle": "Parce que vous offrir un service de qualité est notre priorité, nous pouvons :",
+    "qualityList": [
+      "Informer le bénéficiaire par SMS de notification, gratuit, de la mise à sa disposition des fonds, et du code à présenter pour se faire payer.",
+      "Vous informer par SMS de notification, gratuit, dès que les fonds ont été payés au bénéficiaire"
+    ],
+    "optionalTitle": "Les services optionnels Mandati Express:",
+    "serviceType": "Type de prestation",
+    "unitPrice": "Prix unitaire (DH)",
+    "attestation": "Attestation de paiement",
+    "reactivation": "Réactivation d'un mandat"
+  },
+  "faqNational": {
+    "title": "Nous répondons à vos questions",
+    "sendingMoney": {
+      "title": "Envoi d'argent",
+      "questions": {
+        "howToSend": {
+          "question": "Vous souhaitez envoyer de l'argent au Maroc, d'une ville à une autre, mais vous ne savez pas comment faire ?",
+          "answer": "C'est très simple, il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous avec :\n• Une carte d'identité en cours de validité\n• Le nom est le prénom du bénéficiaire, tels qu'ils sont indiqués sur sa carte d'identité nationale\n• La ville de destination du transfert\n• Le montant que vous souhaitez envoyer\nOu bien d'effectuer votre transfert d'argent depuis votre application Barid Pay."
+        },
+        "howToKnowReceived": {
+          "question": "Vous vous demandez comment savoir si le bénéficiaire a bien reçu son transfert d'argent ?",
+          "answer": "D'informer le bénéficiaire par SMS de notification, gratuit, de la mise à sa disposition des fonds, et du code à présenter pour se faire payer.\nD'être informé par SMS de notification, gratuit, dès que les fonds ont été payés au bénéficiaire."
+        },
+        "maxAmount": {
+          "question": "Vous vous demandez quelles est la somme maximale que vous pouvez envoyer ?",
+          "answer": "Selon la réglementation en vigueur, le montant maximum que vous pouvez envoyer est de 80.000 DHS."
+        },
+        "canCancel": {
+          "question": "Vous vous demandez s'il est possible d'annuler un transfert en cours d'exécution ?",
+          "answer": "Oui c'est possible, il suffit de vous présenter à l'agence la plus proche afin d'annuler votre transfert.\nSi l'annulation est traitée le même jour au sein de l'agence émettrice, vous serez remboursé sur la totalité du montant (sans déduction des frais)."
+        }
+      }
+    },
+    "receivingMoney": {
+      "title": "Réception d'argent",
+      "questions": {
+        "howToKnowAvailable": {
+          "question": "Vous vous demandez comment savoir si votre transfert est disponible pour le récupérer ?",
+          "answer": "Une fois que le transfert d'argent a été effectué, à la demande de l'émetteur, Barid Cash vous adresse un SMS afin de vous informer de la disponibilité de votre argent ainsi que du code de transfert à présenter en agence pour récupérer vos fonds."
+        },
+        "requiredDocuments": {
+          "question": "Vous vous demandez quels sont les documents que vous devez fournir lors de la réception de votre transfert ?",
+          "answer": "C'est très simple, il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous muni :\n• De votre carte d'identité en cours de validité\n• Du code de transfert"
+        },
+        "maxDuration": {
+          "question": "Vous vous demandez quelle est la durée maximale pour récupérer votre argent ?",
+          "answer": "Vous devez vous présenter dans l'une des agences Barid Cash dans un délai de 60 jours."
+        }
+      }
+    }
+  },
+  "location": {
+    "title": "Trouvez une agence",
+    "heroTitle": "Localisez l'agence la plus proche",
+    "heroDescription": "Trouvez facilement l'agence Barid Cash la plus proche de chez vous offrant les services dont vous avez besoin.",
+    "service": "Service",
+    "city": "Ville",
+    "location": "Localisation",
+    "searchPlaceholder": "Chercher par adresse ou nom d'agence",
+    "resultsFound": "agence(s) trouvée(s)",
+    "chooseService": "Choisir un service",
+    "chooseCity": "Choisir une ville",
+    "services": "Nos services",
+    "allServices": "Tous les services"
+  },
+  "footer": {
+    "iso": "BARID CASH S.A EST CERTIFIÉE ISO 9001 : 2015 POUR LES ACTIVITÉS DE TRANSFERTS D'ARGENT NATIONAUX ET INTERNATIONAUX.",
+    "particulier": "PARTICULIER",
+    "nousConnaitre": "NOUS CONNAÎTRE",
+    "devenezMandataire": "DEVENEZ MANDATAIRE",
+    "serviceClient": "SERVICE CLIENT",
+    "services": "SERVICES",
+    "contactezNous": "CONTACTEZ-NOUS",
+    "email": "contact@baridcash.ma",
+    "phone": "(+212) 06 99 34 15 71",
+    "address": "ESPACE DES ARTS, ANGLE BD YACOUB EL MANSOUR, RUE ANNARJISS, CASABLANCA, 20000.",
+    "suivezNous": "SUIVEZ-NOUS",
+    "copyright": "Barid Cash © 2025 Tous droits réservés.",
+    "conditions": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "save": "Enregistrer",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "clear": "Effacer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "more": "Plus",
+    "less": "Moins"
+  },
+  "nousConnaitre": {
+    "hero": {
+      "title": "Barid Cash, à vos côtés depuis 2014 !",
+      "description": "Filiale de Al Barid Bank, Barid cash est aujourd'hui un établissement de paiement qui offre une large gamme de service de proximité."
+    },
+    "timeline": {
+      "title": "Notre parcours",
+      "description": "Découvrez les moments clés qui ont façonné l'histoire de BaridCash et notre évolution au service des Marocains depuis 2014.",
+      "2014": {
+        "title": "Naissance de Barid Cash",
+        "description": "Filiale de Al Barid Bank, Barid Cash voit le jour en 2014 en tant qu'opérateur de transfert d'argent au niveau national et international."
+      },
+      "2016": {
+        "title": "Agrément office des changes",
+        "description": "Barid Cash obtient l'agrément de l'office des changes pour offrir le change de devises."
+      },
+      "2018": {
+        "title": "Établissement de paiement",
+        "description": "En Août 2018 Barid Cash obtient l'agrément de Bank Al Maghrib et devient un établissement de paiement."
+      },
+      "2018Sub1": {
+        "title": "Lancement des comptes de paiements",
+        "description": "Barid Cash étoffe son offre et lance les comptes de paiements. Ces comptes plafonnés permettent de réaliser une multitude de services financiers comme le dépôt, le retrait, le paiement de factures, les virements…"
+      },
+      "2018Sub2": {
+        "title": "Lancement de Barid Pay",
+        "description": "Barid Cash lance également sa première application de paiement mobile Barid Pay adossée au compte de paiement. Barid Pay est une application sécurisée et pratique qui permet à ses utilisateurs de nombreuses fonctionnalités comme le transfert d'argent, l'achat en ligne ou encore le règlement des factures."
+      },
+      "2019": {
+        "title": "Lancement de la carte FISSA3",
+        "description": "Barid Cash diversifie son offre et met à la disposition de ses clients la carte FISSA3. Adossée au compte de paiement, la carte monétique est un nouveau moyen de paiement qui permet le débit immédiat du compte de paiement."
+      },
+      "2021": {
+        "title": "Services NARSA",
+        "description": "Barid Cash étend ses services et propose désormais les services NARSA (permis de conduire, carte grise, etc.)."
+      },
+      "2022": {
+        "title": "Intégration CNSS",
+        "description": "Barid Cash intègre le réseau de proximité agréé pour offrir aux citoyens marocains les services de la Caisse Nationale de Sécurité Sociale (CNSS), concernant le dépôt des dossiers et l'immatriculation."
+      },
+      "2024": {
+        "title": "Assurance inclusive « IHTIYAT AL MOUSTAKBAL »",
+        "description": "Barid Cash étoffe son offre et met à la disposition de ses clients une nouvelle gamme d'assurance inclusive « IHTIYAT AL MOUSTAKBAL », conçue en partenariat avec AtlantaSanad Assurance et la Caisse Nationale de Retraites et d'Assurances (CNRA - RCAR)."
+      }
+    },
+    "engagements": {
+      "title": "Nos engagements",
+      "security": {
+        "title": "La sécurité des opérations :",
+        "description": "L'ensemble des transferts sont réalisés à travers le réseau postal, garantissant leur fiabilité et leur sécurité."
+      },
+      "fees": {
+        "title": "Des frais étudiés :",
+        "description": "Barid Cash c'est aussi des frais avantageux."
+      },
+      "instant": {
+        "title": "Un service instantané :",
+        "description": "Barid Cash vous permet de réaliser vos opérations de manière rapide en toute simplicité."
+      },
+      "proximity": {
+        "title": "Une proximité de nos agences :",
+        "description": "Avec son large réseau d'agences dans tout le Maroc, Barid Cash est à vos côtés pour vous simplifier votre quotidien."
+      }
+    }
+  },
+  "forms": {
+    "validation": {
+      "civility": "Veuillez sélectionner une civilité",
+      "firstName": "Le prénom est obligatoire",
+      "lastName": "Le nom est obligatoire",
+      "email": "Adresse mail invalide",
+      "emailRequired": "L'adresse mail est obligatoire",
+      "phone": "Le numéro de téléphone est obligatoire",
+      "city": "La ville est obligatoire",
+      "subject": "L'objet est obligatoire",
+      "message": "Le message est obligatoire",
+      "terms": "Vous devez accepter les conditions générales"
+    },
+    "labels": {
+      "civility": "Civilité",
+      "firstName": "Prénom",
+      "lastName": "Nom (*)",
+      "email": "Adresse mail",
+      "phone": "Numéro de téléphone",
+      "city": "Ville",
+      "subject": "Objet",
+      "message": "Message",
+      "submit": "Soumettre",
+      "terms": "J'ai lu et j'accepte les conditions générales de confidentialités"
+    },
+    "options": {
+      "mr": "Monsieur",
+      "mrs": "Madame",
+      "yes": "Oui",
+      "no": "Non"
+    }
+  },
+  "devenezMandataireForm": {
+    "title": "Devenir mandataire",
+    "labels": {
+      "civility": "Civilité",
+      "civilityRequired": "(champ obligatoire)",
+      "lastName": "Nom (*)",
+      "firstName": "Prénom",
+      "email": "Adresse mail",
+      "phone": "Numéro de téléphone",
+      "city": "Ville",
+      "hasLocal": "Disposez-vous d'un local ?",
+      "gpsCoordinates": "Coordonnées GPS",
+      "localAddress": "Adresse du local",
+      "submit": "SOUMETTRE"
+    },
+    "placeholders": {
+      "lastName": "Nom (*)",
+      "firstName": "Prénom",
+      "email": "votre.email@exemple.com",
+      "phone": "Votre numéro de téléphone",
+      "city": "Votre ville",
+      "gpsCoordinates": "Coordonnées GPS du local",
+      "localAddress": "Adresse du local"
+    },
+    "options": {
+      "yes": "Oui",
+      "no": "Non"
+    }
+  },
+  "devenirPartenaireForm": {
+    "title": "Devenir partenaire",
+    "labels": {
+      "civility": "Civilité *",
+      "lastName": "Nom *",
+      "firstName": "Prénom *",
+      "email": "Adresse mail *",
+      "phone": "Numéro de téléphone *",
+      "subject": "Objet *",
+      "city": "Ville",
+      "message": "Message *",
+      "submit": "Soumettre"
+    },
+    "placeholders": {
+      "lastName": "Votre nom",
+      "firstName": "Votre prénom",
+      "email": "votre.email@exemple.com",
+      "phone": "Votre numéro de téléphone",
+      "subject": "Sélectionnez un objet",
+      "city": "Votre ville",
+      "message": "Décrivez votre demande en détail..."
+    },
+    "options": {
+      "mrs": "Madame",
+      "mr": "Monsieur"
+    }
+  },
+  "nousRejoindreForm": {
+    "title": "Nous rejoindre",
+    "labels": {
+      "civility": "Civilité",
+      "civilityRequired": "(champ obligatoire)",
+      "lastName": "Nom (*)",
+      "firstName": "Prénom",
+      "email": "Adresse mail",
+      "phone": "Numéro de téléphone",
+      "currentFunction": "Fonction actuelle",
+      "cvUpload": "Télécharger CV",
+      "submit": "Soumettre"
+    },
+    "placeholders": {
+      "lastName": "Nom (*)",
+      "firstName": "Prénom",
+      "email": "votre.email@exemple.com",
+      "phone": "Votre numéro de téléphone",
+      "currentFunction": "Votre fonction actuelle"
+    },
+    "uploadText": "Cliquez pour télécharger un fichier"
+  },
+  "permisConduireMasseForm": {
+    "title": "Demande de permis de conduire en masse",
+    "labels": {
+      "civility": "Civilité",
+      "civilityRequired": "(champ obligatoire)",
+      "lastName": "Nom (*)",
+      "firstName": "Prénom",
+      "email": "Adresse mail",
+      "phone": "Numéro de téléphone",
+      "subject": "Objet",
+      "city": "Ville",
+      "becomePartner": "Devenir partenaire",
+      "questioning": "Questionnement",
+      "message": "Message",
+      "submit": "Soumettre"
+    },
+    "placeholders": {
+      "lastName": "Nom (*)",
+      "firstName": "Prénom",
+      "email": "votre.email@exemple.com",
+      "phone": "Votre numéro de téléphone",
+      "subject": "Objet de votre demande",
+      "city": "Votre ville",
+      "becomePartner": "Devenir partenaire",
+      "questioning": "Votre questionnement",
+      "message": "Votre message ici..."
+    }
+  },
+  "permisConduireMasseEnterpriseForm": {
+    "title": "Demande de permis de conduire en masse pour entreprises",
+    "labels": {
+      "civility": "Civilité *",
+      "lastName": "Nom *",
+      "firstName": "Prénom *",
+      "email": "Adresse mail *",
+      "phone": "Numéro de téléphone *",
+      "subject": "Objet *",
+      "city": "Ville",
+      "message": "Message *",
+      "submit": "Soumettre"
+    },
+    "placeholders": {
+      "lastName": "Votre nom",
+      "firstName": "Votre prénom",
+      "email": "votre.email@exemple.com",
+      "phone": "Votre numéro de téléphone",
+      "subject": "Objet de votre demande",
+      "city": "Votre ville",
+      "message": "Votre message ici..."
+    }
+  },
+  "entrepriseContactForm": {
+    "title": "Nous contacter pour entreprises",
+    "labels": {
+      "civility": "Civilité",
+      "civilityRequired": "(champ obligatoire)",
+      "lastName": "Nom (*)",
+      "firstName": "Prénom",
+      "email": "Adresse mail",
+      "phone": "Numéro de téléphone",
+      "message": "Message",
+      "submit": "Envoyer le message"
+    },
+    "placeholders": {
+      "lastName": "Nom (*)",
+      "firstName": "Prénom",
+      "email": "votre.email@exemple.com",
+      "phone": "Votre numéro de téléphone",
+      "message": "Votre message ici..."
+    }
+  },
+  "baridPay": {
+    "hero": {
+      "title": "Notre application mobile Barid Pay",
+      "description": "Barid Pay vous permet d'effectuer facilement, de manière instantanée et sécurisée une multitude d'opérations financières."
+    },
+    "content": {
+      "title": "Barid Pay, votre partenaire financier mobile",
+      "description": "Découvrez toutes les fonctionnalités de notre application mobile Barid Pay.",
+      "features": {
+        "title": "Fonctionnalités principales",
+        "transfer": "Transfert d'argent",
+        "transferDesc": "Envoyez de l'argent instantanément",
+        "payment": "Paiement de factures",
+        "paymentDesc": "Payez vos factures en ligne",
+        "withdrawal": "Retrait d'argent",
+        "withdrawalDesc": "Retirez de l'argent facilement",
+        "balance": "Consultation de solde",
+        "balanceDesc": "Vérifiez votre solde en temps réel"
+      }
+    },
+    "advantages": {
+      "title": "Avantages de Barid Pay",
+      "secure": {
+        "title": "Sécurisé",
+        "description": "Vos données sont protégées par un cryptage de niveau bancaire"
+      },
+      "fast": {
+        "title": "Rapide",
+        "description": "Effectuez vos opérations en quelques secondes"
+      },
+      "convenient": {
+        "title": "Pratique",
+        "description": "Accédez à vos services financiers 24h/24 et 7j/7"
+      },
+      "affordable": {
+        "title": "Économique",
+        "description": "Des frais réduits pour toutes vos opérations"
+      }
+    },
+    "contentSection": {
+      "title": "BARID PAY c'est",
+      "features": [
+        "Des transferts d'argent de compte à compte et de mobile à mobile",
+        "Des émissions de mandats du mobile vers agence ou vers GAB (retrait sans carte)",
+        "Des encaissements de mandats sur mobile",
+        "Des paiement de factures et achats de recharges téléphoniques",
+        "Le règlement de vos achats auprès des commerçants affiliés au paiement mobile national"
+      ]
+    },
+    "advantagesList": {
+      "gratuite": "GRATUITE",
+      "adosse": "ADOSSÉE À DES COMPTES DE PAIEMENT",
+      "simple": "SIMPLE",
+      "accessible": "ACCESSIBLE",
+      "securisee": "SÉCURISÉE"
+    },
+    "faq": {
+      "title": "Nous répondons à vos questions",
+      "downloadQuestion": "Vous vous demandez comment télécharger l'application Barid Pay ?",
+      "downloadAnswer": "L'application Barid Pay est téléchargeable via Play Store et Apple Store.",
+      "downloadPlayStore": "Télécharger sur Play Store",
+      "downloadAppStore": "Télécharger sur App Store",
+      "accountQuestion": "Puis-je ouvrir un compte directement depuis l'application Barid Pay ?",
+      "accountAnswer1": "Grâce à l'application Barid Pay, vous pouvez ouvrir un compte Maly ou Maly UP depuis votre téléphone.",
+      "accountAnswer2": "Pour les comptes Maly + et Maly Premium, il vous suffira de vous rendre en agence muni des pièces justificatives nécessaires.\n\nPour plus d'informations,\n\ncliquez ici !",
+      "accountLink": "cliquez ici !",
+      "activateQuestion": "Vous vous demandez comment activer votre application Barid Pay ?",
+      "activateAnswer": "C'est simple, il vous suffit de :",
+      "activateSteps": [
+        "Télécharger l'application Barid Pay depuis l'une des plateformes de téléchargement Play Store ou Apple Store.",
+        "D'accéder à l'application à travers l'onglet nouveau client et de renseigner le formulaire de souscription.",
+        "Activer votre compte en saisissant le code d'activation que Barid Cash vous enverra par SMS."
+      ],
+      "activateLearnMore": "En savoir plus",
+      "phoneChangeQuestion": "Vous vous demandez ce qui se passe en cas de changement de smartphone ?",
+      "phoneChangeAnswer": "Si vous changez de téléphone portable, sans changer de numéro de téléphone, il vous suffira d'activer l'application Barid Pay sur votre nouveau téléphone en saisissant votre identifiant et votre mot de passe.",
+      "phoneLossQuestion": "Vous vous demandez ce que vous devez faire en cas de perte du numéro de téléphone associé à votre compte ?",
+      "phoneLossAnswer": "En cas de perte du numéro de téléphone associé à votre compte, nous vous invitons à vous rendre à l'agence Barid Cash la plus proche de chez vous afin de communiquer votre nouveau numéro de téléphone.",
+      "assistanceQuestion": "Vous avez besoin d'assistance et vous vous demandez comment faire ?",
+      "assistanceAnswer": "Si vous avez une question ou une réclamation, vous pouvez :",
+      "assistanceLink": "Consulter le centre d'aide en cliquant ici",
+      "assistancePhone": "Ou en appelant le",
+      "assistanceNumber": "06 99 34 15 71"
+    }
+  },
+  "cartesMonetiques": {
+    "hero": {
+      "title": "Carte monétique",
+      "description": "Découvrez les avantages de la carte monétique ralliée à votre compte Barid Cash."
+    },
+    "content": {
+      "title": "Carte monétique Barid Cash",
+      "operational": {
+        "title": "Opérationnelle",
+        "items": [
+          "Retrait dans les guichets automatiques Al Barid Bank et guichets confrères",
+          "Paiement chez les commerçants équipés de TPE",
+          "Achats en ligne au Maroc"
+        ]
+      },
+      "simple": {
+        "title": "Simple",
+        "items": [
+          "Utilisation facile et intuitive",
+          "Gestion de votre compte en ligne",
+          "Suivi de vos transactions en temps réel"
+        ]
+      },
+      "secure": {
+        "title": "Sécurisée",
+        "items": [
+          "Protection par code PIN",
+          "Transactions chiffrées",
+          "Assurance contre la fraude"
+        ]
+      },
+      "accessible": {
+        "title": "Accessible",
+        "items": [
+          "Disponible dans toutes nos agences",
+          "Support client 24/7",
+          "Application mobile dédiée"
+        ]
+      }
+    },
+    "title": "Nous répondons à vos questions ?",
+    "question1": "Vous vous demandez où est utilisable votre carte ?",
+    "question2": "Vous vous demandez combien de temps faut-il pour que votre carte monétique soit prête ?",
+    "answer1": "La carte de Barid Cash est utilisable :",
+    "uses": [
+      "Pour le retrait dans les guichets automatiques Al Barid Bank et dans les guichets automatiques confrères.",
+      "Pour le règlement chez les commerçants équipés de TPE.",
+      "Pour le règlement des achats sur internet au Maroc."
+    ],
+    "answer2": "La carte est disponible immédiatement en agence Barid Cash lors de l'ouverture de votre compte.",
+    "hero": {
+      "title": "Notre offre de cartes Monétiques",
+      "description": "Grâce à votre compte ouvert auprès de Barid Cash, offrez-vous une carte monétique Mastercard ou VISA et récupérable instantanément lors de l'ouverture de votre compte."
+    },
+    "content": {
+      "title": "Notre carte c'est",
+      "operational": {
+        "title": "Une carte opérationnelle dans l'immédiat :",
+        "items": [
+          "Elle est opérationnelle immédiatement après souscription",
+          "Elle vous permet une disponibilité de votre argent à tout moment sans avoir à vous encombrer constamment d'espèces.",
+          "Elle permet le retrait d'argent depuis tous les GAB au Maroc.",
+          "Elle permet l'achat en ligne en Dirhams Marocain. (MAD)",
+          "Elle permet de réaliser les paiements TPE en magasin."
+        ]
+      },
+      "simple": {
+        "title": "Une carte simple et pratique :",
+        "items": ["La carte est opérationnelle 24h/24, 7j/7."]
+      },
+      "secure": {
+        "title": "Une carte sécurisée :",
+        "items": [
+          "Grâce à la technologie à puce de la carte et au 3D Secure, la carte monétique de Barid Cash est totalement sécurisée."
+        ]
+      },
+      "accessible": {
+        "title": "Une carte accessible :",
+        "items": [
+          "La carte ne coûte que 60DH/ 2 ans soit 30 DH/ an.",
+          "Le compte de paiement auquel est adossée la carte peut être rechargé via plusieurs canaux : les agences Barid Cash, les agent partenaires Barid Cash, l'application Barid PAY, le guichet automatique."
+        ]
+      }
+    },
+    "content": {
+      "title": "Vos cartes de paiement",
+      "description": "Profitez de la flexibilité et de la sécurité de nos cartes monétiques.",
+      "operational": {
+        "title": "Opérationnelle",
+        "items": [
+          "Retrait dans les guichets automatiques Al Barid Bank et guichets confrères",
+          "Paiement chez les commerçants équipés de TPE",
+          "Achats en ligne au Maroc"
+        ]
+      },
+      "simple": {
+        "title": "Simple",
+        "items": [
+          "Utilisation facile et intuitive",
+          "Gestion de votre compte en ligne",
+          "Suivi de vos transactions en temps réel"
+        ]
+      },
+      "secure": {
+        "title": "Sécurisée",
+        "items": [
+          "Protection par code PIN",
+          "Transactions chiffrées",
+          "Assurance contre la fraude"
+        ]
+      },
+      "accessible": {
+        "title": "Accessible",
+        "items": [
+          "Disponible dans toutes nos agences",
+          "Support client 24/7",
+          "Application mobile dédiée"
+        ]
+      },
+      "features": {
+        "title": "Fonctionnalités",
+        "debit": "Débit immédiat",
+        "debitDesc": "Payez directement depuis votre compte",
+        "security": "Sécurité maximale",
+        "securityDesc": "Protection contre la fraude",
+        "worldwide": "Acceptation mondiale",
+        "worldwideDesc": "Utilisez votre carte partout",
+        "support": "Support 24/7",
+        "supportDesc": "Assistance disponible en permanence"
+      }
+    },
+    "advantages": {
+      "title": "Avantages des cartes monétiques",
+      "convenience": {
+        "title": "Confort",
+        "description": "Payez sans espèces, partout et à tout moment"
+      },
+      "security": {
+        "title": "Sécurité",
+        "description": "Transactions sécurisées avec protection contre la fraude"
+      },
+      "tracking": {
+        "title": "Suivi",
+        "description": "Consultez l'historique de vos transactions"
+      },
+      "rewards": {
+        "title": "Avantages",
+        "description": "Bénéficiez de réductions et d'offres spéciales"
+      }
+    }
+  },
+  "changeDevises": {
+    "title": "Change de devises, ce qu'il faut savoir",
+    "clickHere": "Cliquez ici",
+    "question1": "Vous souhaitez faire le change de Dirhams Marocains en devises étrangères, et vous vous demandez dans quelle agence vous rendre ?",
+    "answer1": "Disponible dans de nombreuses agences Barid Cash.",
+    "answer1End": "\net découvrez l'agence la plus proche de chez vous.",
+    "cta": "Cliquez ici et découvrez l'agence la plus proche de chez vous.",
+    "question2": "Vous souhaitez faire le change de devises étrangères en Dirham Marocain, quelles sont les pièces d'identité qu'il vous faut ?",
+    "answer2": "Pour effectuer votre change de monnaie étrangère en Dirham Marocain, vous devez être muni de votre passeport en cours de validité ou de votre CIN en cours de validité.",
+    "question3": "Vous souhaitez faire le change de Dirham Marocain en devises, quelles sont les pièces d'identité qu'il vous faut ?",
+    "answer3": "Vous aurez besoin de votre passeport en cours de validité.",
+    "content": {
+      "title": "Barid Cash c'est un service d'achat et de vente de devises :",
+      "competitive": {
+        "title": "Compétitif",
+        "description": "Barid Cash vous garantit des taux de change compétitifs basés sur le cours de change officiel du jour."
+      },
+      "instant": {
+        "title": "Instantané",
+        "description": "Barid Cash vous permet de récupérer la devise souhaitée instantanément."
+      },
+      "accessible": {
+        "title": "Accessible",
+        "description": "Barid Cash met à votre disposition un large réseau d'agences qui vous permet d'effectuer vos opérations de change en toute sécurité."
+      }
+    },
+    "hero": {
+      "title": "Change de devises avec Barid Cash",
+      "description": "Avec Barid Cash, bénéficiez d'un taux de change compétitif dans de nombreuses agences agréées, et cela dans tout le Maroc."
+    }
+  },
+  "taxesImpots": {
+    "hero": {
+      "title": "Payez vos taxes et impôts",
+      "description": "Afin de vous offrir des services financiers et para-financiers de qualité, Barid Cash vous permet de payer l'ensemble de vos impôts et taxes depuis l'agence la plus proche de chez vous ou à travers l'application Barid Pay."
+    },
+    "content": {
+      "title": "Paiement des taxes",
+      "description": "Simplifiez vos obligations fiscales avec nos services de paiement.",
+      "services": {
+        "title": "Services disponibles",
+        "tva": "TVA",
+        "is": "Impôt sur les sociétés",
+        "ir": "Impôt sur le revenu",
+        "vignette": "Vignette automobile"
+      }
+    },
+    "advantages": {
+      "title": "Avantages",
+      "convenience": {
+        "title": "Confort",
+        "description": "Paiement en ligne ou en agence"
+      },
+      "security": {
+        "title": "Sécurité",
+        "description": "Transactions sécurisées"
+      },
+      "receipt": {
+        "title": "Reçu",
+        "description": "Reçu immédiat après paiement"
+      },
+      "support": {
+        "title": "Support",
+        "description": "Assistance disponible"
+      }
+    },
+    "contentSection": {
+      "subtitle": "Qu'il s'agisse de :",
+      "description": "Qu'il s'agisse de l'IR, l'IS, la TVA ou toute autre taxe que vous désirez payer, Barid Cash vous facilite la tâche. Il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous afin de régler votre taxe en toute sécurité."
+    },
+    "downloadSection": {
+      "title": "",
+      "description": "Et vous pouvez aussi payer via l'application Barid Pay",
+      "downloadText": "Télécharger sur"
+    },
+    "questionsSection": {
+      "title": "Plusieurs façons de payer votre vignette automobile : facilement et rapidement en agence ou depuis l'application Barid Pay",
+      "agencyTitle": "Pour payer votre vignette automobile en agence, il vous suffit de :",
+      "agencySteps": [
+        "Vous rendre à l'agence Barid Cash la plus proche de chez vous muni de votre carte grise.",
+        "Payer votre vignette.",
+        "Récupérer votre reçu relatif au paiement."
+      ],
+      "appTitle": "Pour payer via l'application Barid Pay :",
+      "appSteps": [
+        "Ouvrir un compte chez Barid Cash",
+        "Télécharger l'application Barid Pay",
+        "Payer votre vignette."
+      ]
+    },
+    "partnersSection": {
+      "title": "Nos partenaires"
+    }
+  },
+  "eTimbre": {
+    "hero": {
+      "title": "E-timbre",
+      "description": "Payez vos timbres électroniques avec Barid Cash."
+    },
+    "content": {
+      "title": "Service E-timbre",
+      "description": "Simplifiez vos démarches administratives avec notre service de timbres électroniques.",
+      "documents": {
+        "title": "Documents concernés",
+        "passport": "Passeport",
+        "weapon": "Permis de port d'arme",
+        "hunting": "Permis de chasse"
+      }
+    },
+    "advantages": {
+      "title": "Avantages",
+      "speed": {
+        "title": "Rapidité",
+        "description": "Paiement immédiat"
+      },
+      "convenience": {
+        "title": "Confort",
+        "description": "Service disponible en ligne"
+      },
+      "security": {
+        "title": "Sécurité",
+        "description": "Transactions sécurisées"
+      },
+      "receipt": {
+        "title": "Reçu",
+        "description": "Reçu électronique"
+      }
+    }
+  },
+  "rokhas": {
+    "hero": {
+      "title": "ROKHAS pour vos autorisations économiques",
+      "description": "Barid Cash vous fournit une solution de paiement des prestations de la plateforme « ROKHAS », dédiée à la délivrance des autorisations à caractère économique."
+    },
+    "content": {
+      "title": "Nos avantages",
+      "secure": {
+        "title": "UN SERVICE SÉCURISÉ",
+        "description": "Avec Barid Cash vos opérations sont sécurisées"
+      },
+      "simple": {
+        "title": "UN SERVICE SIMPLE ET PRATIQUE",
+        "description": "Le service est disponible du lundi au samedi.\nLes opérations sont simples et nécessitent que vous soyez seulement muni de votre carte d'identité en cours de validité et de l'avis Rokhas."
+      },
+      "accessible": {
+        "title": "UN SERVICE ACCESSIBLE",
+        "description": "Un service accessible où que vous soyez grâce au large réseau Barid Cash."
+      }
+    },
+    "faq": {
+      "title": "Nous répondons à vos questions",
+      "question1": "Vous vous demandez qu'est-ce que la plateforme ROKHAS ?",
+      "answer1": "La plateforme Rokhas.ma permet à toute personne physique ou morale de déposer une demande d'autorisation économique, payer les frais au niveau des agences Barid Cash, et suivre le traitement du dossier via internet.",
+      "question2": "Vous vous demandez où est ce que vous pouvez payer vos produits Rokhas ?",
+      "answer2": "Vous pouvez payer vos produits Rokhas en agence Barid Cash.\nDécouvrez l'agence la plus proche",
+      "cta": "Découvrez l'agence la plus proche",
+      "question3": "Vous vous demandez quels sont les documents requis ?",
+      "answer3": "Il suffit de se rendre à une agence Barid Cash accompagné de :",
+      "documents": {
+        "idCard": "Carte d'identité nationale en cours de validité",
+        "avis": "Avis \"Rokhas\""
+      }
+    },
+    "advantages": {
+      "title": "Avantages",
+      "speed": {
+        "title": "Rapidité",
+        "description": "Traitement rapide"
+      },
+      "convenience": {
+        "title": "Confort",
+        "description": "Service en agence"
+      },
+      "support": {
+        "title": "Support",
+        "description": "Assistance disponible"
+      },
+      "security": {
+        "title": "Sécurité",
+        "description": "Transactions sécurisées"
+      }
+    },
+    "faq": {
+      "title": "Nous répondons à vos questions",
+      "question1": "Vous vous demandez qu'est-ce que la plateforme ROKHAS ?",
+      "answer1": "La plateforme Rokhas.ma permet à toute personne physique ou morale de déposer sa demande d'autorisation économique, de régler la prestation au niveau des agences Barid Cash et de suivre en ligne l'état d'avancement de son dossier.",
+      "question2": "Vous vous demandez où est ce que vous pouvez payer vos produits Rokhas ?",
+      "answer2": "Vous pouvez payer vos produits Rokhas en agence Barid Cash.",
+      "cta": "Découvrez l'agence la plus proche",
+      "question3": "Vous vous demandez quelles sont les pièces à fournir ?",
+      "answer3": "Il vous suffit de vous présenter à l'agence Barid Cash muni :",
+      "documents": {
+        "idCard": "De votre carte d'identité nationale en cours de validité",
+        "avis": "De l'avis Rokhas"
+      }
+    }
+  },
+  "facturesEauElectricite": {
+    "hero": {
+      "title": "Payez vos factures d'eau, d'électricité et de télécom avec Barid Cash",
+      "description": "Avec Barid Cash, vous pouvez payer vos factures depuis l'agence Barid Cash la plus proche de chez vous ou depuis votre téléphone mobile avec l'application BARID PAY."
+    },
+    "content": {
+      "title": "Paiement des factures",
+      "description": "Simplifiez le paiement de vos factures d'utilités.",
+      "services": {
+        "title": "Services disponibles",
+        "water": "Factures d'eau",
+        "electricity": "Factures d'électricité",
+        "telecom": "Factures de télécommunications"
+      }
+    },
+    "advantages": {
+      "title": "Avantages",
+      "convenience": {
+        "title": "Confort",
+        "description": "Paiement en ligne ou en agence"
+      },
+      "speed": {
+        "title": "Rapidité",
+        "description": "Paiement immédiat"
+      },
+      "receipt": {
+        "title": "Reçu",
+        "description": "Reçu immédiat"
+      },
+      "support": {
+        "title": "Support",
+        "description": "Assistance disponible"
+      }
+    }
+  },
+  "facturesAchat": {
+    "hero": {
+      "title": "Paiement des partenaires : achat e-commerce, transport, sport"
+    },
+    "content": {
+      "title": "Paiement en ligne",
+      "description": "Profitez de nos services de paiement en ligne sécurisés.",
+      "services": {
+        "payexpress": {
+          "title": "PAIEMENT PAYEXPRESS",
+          "description": "Barid Cash permet aux utilisateurs du service Payexpress de régler en espèce dans l'agence Barid Cash le montant de ses achats sur internet",
+          "features": [
+            "1. Rendez-vous à l'agence Barid Cash la plus proche de chez vous muni de :",
+            "• Votre carte d'identité nationale en cours de validité",
+            "• Votre numéro de paiement Payexpress constitué de 12 chiffres",
+            "2. Payez votre commande."
+          ]
+        },
+        "forever": {
+          "title": "PAIEMENT FOREVER",
+          "description": "Payez vos commandes Forever directement en agence Barid Cash !"
+        },
+        "bein": {
+          "title": "PAIEMENT DES ABONNEMENTS BEIN",
+          "description": "Le service Bein proposé par Barid Cash permet à toute personne ayant un abonnement Bein de régler facilement et rapidement ses factures via le réseau Barid Cash. Ce service vise à répondre au besoin croissant de commodité et de proximité pour le règlement des abonnements télévisés."
+        }
+      },
+      "partners": {
+        "title": "Partenaires",
+        "ecommerce": "E-commerce",
+        "transport": "Transport",
+        "sport": "Sport"
+      }
+    },
+    "advantages": {
+      "title": "Barid Cash à vos côtés pour simplifier votre quotidien",
+      "accessible": {
+        "title": "Un service accessible",
+        "description": "Un service accessible où que vous soyez grâce au large réseau Barid Cash."
+      },
+      "simple": {
+        "title": "Un service simple et pratique",
+        "description": "Le service est disponible du lundi au samedi. Les opérations sont simples et nécessitent que vous soyez seulement muni de votre référence de paiement."
+      },
+      "secure": {
+        "title": "Un service sécurisé",
+        "description": "Avec Barid Cash, vos opérations sont sécurisées."
+      }
+    },
+    "partners": {
+      "title": "Nos Partenaires"
+    },
+    "trainTicket": {
+      "title": "Achetez votre billet de train en agence Barid Cash",
+      "description": "Barid Cash vous permet d'acheter vos billets de voyage ONCF à travers notre large réseau d'agences.",
+      "steps": [
+        "Rendez-vous à l'agence Barid Cash la plus proche de chez vous.",
+        "Choisissez votre trajet.",
+        "Récupérez votre ticket."
+      ],
+      "cta": "Découvrez l'agence la plus proche de chez vous"
+    },
+    "faq": {
+      "title": "Nous répondons à vos questions",
+      "fees": {
+        "question": "Vous vous demandez si vous devez payer des frais supplémentaires ?",
+        "answer": "Aucun frais supplémentaire n'est requis."
+      }
+    }
+  },
+  "narsaPermisDeConduire": {
+    "hero": {
+      "title": "Exclusif : Votre permis de conduire chez Barid Cash",
+      "description1": "A travers le partenariat que Barid Cash a signé avec la NARSA (Agence Nationale de Sécurité Routière), la demande du permis est devenue très facile.",
+      "description2": "Ce service, offert exclusivement dans le réseau Barid Cash, vous permet de déposer votre dossier de demande ou de renouvellement du permis directement au sein de l'agence Barid Cash la plus proche de chez vous."
+    },
+    "content": {
+      "title": "Nos avantages",
+      "simple": {
+        "title": "SIMPLE",
+        "description": "Barid Cash vous permet d'obtenir votre permis de conduire NARSA simplement et rapidement."
+      },
+      "secure": {
+        "title": "SÉCURISÉ",
+        "description": "Barid Cash vous garantit un service sécurisé pour toutes vos démarches administratives NARSA."
+      },
+      "accessible": {
+        "title": "ACCESSIBLE",
+        "description": "Barid Cash met à votre disposition un large réseau d'agences pour obtenir votre permis de conduire NARSA en toute facilité."
+      }
+    },
+    "process": {
+      "title": "Les documents à fournir",
+      "renewal": {
+        "title": "Vous voulez renouveler votre permis ? Voici la démarche à suivre :",
+        "step1": "Rendez-vous à l'agence Barid Cash la plus proche de chez vous, muni des documents ci-dessous :",
+        "documents": [
+          "Copie de la pièce d'identité en cours de validité.",
+          "Certificat médical en cours de validité établi depuis moins de 3 mois par un médecin agréé attestant l'aptitude physique et mentale du candidat pour la catégorie sollicitée ;",
+          "Deux photographies d'identités récentes de face, en couleur de format 35×45 mm ; sur fond blanc",
+          "L'original du permis de conduire ;",
+          "Votre reçu de paiement."
+        ],
+        "step2": "Recevez votre permis de conduire provisoire",
+        "step3": "Une fois votre permis de conduire prêt, vous recevez un SMS afin de le récupérer à l'agence."
+      },
+      "duplicate": {
+        "title": "Vous avez perdu votre permis de conduire ? Vous avez besoin d'un duplicata, voici la démarche à suivre :",
+        "step1": "Rendez-vous à l'agence Barid Cash la plus proche de chez vous, muni des documents ci-dessous :",
+        "documents": [
+          "Copie de la pièce d'identité en cours de validité.",
+          "Certificat médical en cours de validité établi depuis moins de 3 mois par un médecin agréé attestant l'aptitude physique et mentale du candidat pour la catégorie sollicitée ;",
+          "Deux photographies d'identités récentes de face, en couleur de format 35×45 mm ; sur fond blanc",
+          "La déclaration de perte du permis de conduire ;",
+          "Votre reçu de paiement."
+        ],
+        "step2": "Recevez votre permis de conduire provisoire",
+        "step3": "Une fois votre permis de conduire prêt, vous recevez un SMS afin de le récupérer à l'agence."
+      }
+    },
+    "otherServices": {
+      "title": "Autres services NARSA",
+      "carteGrise": {
+        "title": "Carte grise",
+        "description": "Obtenez votre carte grise facilement avec Barid Cash"
+      },
+      "reclamations": {
+        "title": "Réclamations aux infractions",
+        "description": "Déposez vos réclamations d'infractions routières"
+      },
+      "mutation": {
+        "title": "Mutation de véhicule",
+        "description": "Effectuez la mutation de votre véhicule"
+      }
+    },
+    "faq": {
+      "title": "Nous répondons à vos questions",
+      "question1": {
+        "question": "Vous vous demandez en quoi consiste ce service ?",
+        "answer": "Ce service vous permet renouveler votre permis de conduire ou de demander un duplicata directement en agence Barid Cash en cas de :",
+        "cases": [
+          "Détérioration de votre permis de conduire.",
+          "D'expiration de votre permis de conduire."
+        ],
+        "moreInfo": "Pour plus d'informations",
+        "clickHere": "cliquez ici"
+      },
+      "question2": {
+        "question": "Vous vous demandez quel est le montant à payer afin de renouveler votre permis de conduire ?",
+        "answer": "Le montant de renouvellement du permis de conduire est de 415 DHS."
+      },
+      "question3": {
+        "question": "Vous vous demandez quel est le montant à payer afin de demander un duplicata de votre permis de conduire ?",
+        "answer": "Le montant afin d'effectuer le duplicata de votre permis de conduire est de 415 DHS."
+      }
+    }
+  },
+  "narsaMutation": {
+    "hero": {
+      "title": "Exclusif : Soumettez votre demande de mutation de votre véhicule",
+      "description": "Dans le cadre de son partenariat avec l'Agence Nationale de la Sécurité Routière (NARSA), Barid Cash vous offre un service de mutation de véhicule à travers son réseau d'agences. Ce service vous permet de soumettre votre dossier de mutation directement au niveau de l'agence Barid Cash la plus proche de chez vous."
+    },
+    "content": {
+      "title": "Nos avantages",
+      "simple": {
+        "title": "SIMPLE",
+        "description": "Barid Cash vous permet d'effectuer votre mutation NARSA simplement et rapidement."
+      },
+      "secure": {
+        "title": "SÉCURISÉ",
+        "description": "Barid Cash vous garantit un service sécurisé pour toutes vos démarches administratives NARSA."
+      },
+      "accessible": {
+        "title": "ACCESSIBLE",
+        "description": "Barid Cash met à votre disposition un large réseau d'agences pour effectuer vos mutations NARSA en toute facilité."
+      }
+    },
+    "process": {
+      "title": "Comment déposer sa demande ?",
+      "description": "Le processus de demande de mutation est simple et rapide. Il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous avec ces documents :",
+      "documents": [
+        "Le formulaire de mutation légalisé.",
+        "Le PV validé et valable de la visite technique de mutation et avec la mention favorable.",
+        "La carte grise originale.",
+        "La pièce d'identité de l'acheteur et les documents justificatifs de sa résidence.",
+        "La quittance de paiement des droits de mutation.",
+        "Une procuration de vente dans le cas d'une vente par procuration.",
+        "Une procuration de dépôt dans le cas d'un dépôt par procuration."
+      ],
+      "conclusion": "Suite au dépôt de votre dossier, vous recevrez votre récépissé de mise en circulation de votre véhicule. Lorsque votre carte grise sera disponible, vous recevez immédiatement un SMS vous informant de sa mise à disposition dans l'agence Barid Cash."
+    }
+  },
+  "narsaCarteGrise": {
+    "hero": {
+      "title": "Exclusif : demandez votre carte grise chez Barid Cash",
+      "description": "À l'instar du service de gestion des permis de conduire, Barid Cash vous permet de renouveler votre carte grise au niveau de son large réseau d'agences. Ce service exclusif vous permet un gain de temps et une praticité dans votre démarche."
+    },
+    "content": {
+      "title": "Nos avantages",
+      "simple": {
+        "title": "SIMPLE",
+        "description": "Barid Cash vous permet d'obtenir votre carte grise NARSA simplement et rapidement."
+      },
+      "secure": {
+        "title": "SÉCURISÉ",
+        "description": "Barid Cash vous garantit un service sécurisé pour toutes vos démarches administratives NARSA."
+      },
+      "accessible": {
+        "title": "ACCESSIBLE",
+        "description": "Barid Cash met à votre disposition un large réseau d'agences pour obtenir votre carte grise NARSA en toute facilité."
+      }
+    },
+    "process": {
+      "title": "Les documents à fournir",
+      "renewal": {
+        "title": "Rendez-vous à l'agence Barid Cash la plus proche de chez vous, muni de :",
+        "subtitle": "Pour un renouvellement de carte grise :",
+        "documents": [
+          "Formulaire BI ou BII selon le mode d'achat du véhicule dûment renseigné et signé par le propriétaire du véhicule ou de la personne dûment mandatée. (Dossier gris disponible en kiosque et en librairie).",
+          "Copie de la carte d'identité nationale en cours de validité. Pour les étrangers résidents au Maroc : Certificat d'immatriculation ou copie du récépissé de dépôt de la demande de ce certificat accompagné d'un certificat de résidence délivré par les services de la sûreté nationale ou de la gendarmerie royale, dans la juridiction du CI de rattachement.",
+          "Carte grise originale"
+        ],
+        "exchange": {
+          "subtitle": "En cas d'échange :",
+          "documents": [
+            "Mainlevée en cas de liquidation de crédit",
+            "La quittance de paiement des droits d'échange prévus par la législation et la réglementation en vigueur."
+          ]
+        }
+      },
+      "duplicata": {
+        "title": "Pour une demande de Duplicata de carte grise :",
+        "documents": [
+          "Formulaire BI ou BII selon le mode d'achat du véhicule dûment renseigné et signé par le propriétaire du véhicule ou de la personne dûment mandatée. (Dossier gris disponible en kiosque et en librairie).",
+          "Copie de la carte d'identité nationale en cours de validité. Pour les étrangers résidents au Maroc : Certificat d'immatriculation ou copie du récépissé de dépôt de la demande de ce certificat accompagné d'un certificat de résidence délivré par les services de la sûreté nationale ou de la gendarmerie royale, dans la juridiction du CI de rattachement.",
+          "Carte grise originale"
+        ],
+        "loss": {
+          "subtitle": "En cas de perte ou de vol établie selon le cas par :",
+          "documents": [
+            "déclaration des services de la sûreté nationale",
+            "déclaration des services de la gendarmerie royale",
+            "déclaration des autorités compétentes étrangères ou les services compétents des missions diplomatiques et consulaires marocaines à l'étranger (perte ou vol déclaré à l'étranger)."
+          ]
+        },
+        "exchange": {
+          "subtitle": "En cas d'échange :",
+          "documents": [
+            "Mainlevée en cas de liquidation de crédit.",
+            "La quittance de paiement des droits de duplicata prévus par la législation et la réglementation en vigueur."
+          ]
+        }
+      }
+    },
+    "faq": {
+      "title": "Nous répondons à vos questions",
+      "question1": "Vous vous demandez en quoi consiste ce service ?",
+      "answer1": "Ce service vous permet de renouveler votre carte grise en cas de :",
+      "answer1List": [
+        "Détérioration de la carte grise",
+        "Expiration de la carte grise",
+        "Mainlevée en cas de liquidation de crédit",
+        "Changement d'identité du titulaire de la carte grise",
+        "Perte ou vol de la carte grise"
+      ],
+      "question2": "Vous vous demandez quel est le montant à payer afin de renouveler votre carte grise ?",
+      "answer2": "Le montant à payer est de 305 DHS.",
+      "question3": "Vous vous demandez quel est le montant à payer afin d'effectuer un duplicata de votre carte grise ?",
+      "answer3": "Le montant à payer est de 405 DHS."
+    }
+  },
+  "narsaReclamationsInfractions": {
+    "hero": {
+      "title": "Exclusif : Déposez vos réclamations aux infractions chez Barid Cash",
+      "description": "Afin d'être toujours plus proche de vous, Barid Cash assure la gestion des déclarations et des réclamations relatives aux infractions constatées par les radars fixes."
+    },
+    "content": {
+      "title": "Nos avantages",
+      "simple": {
+        "title": "SIMPLE",
+        "description": "Barid Cash vous permet de traiter vos réclamations aux infractions NARSA simplement et rapidement."
+      },
+      "secure": {
+        "title": "SÉCURISÉ",
+        "description": "Barid Cash vous garantit un service sécurisé pour toutes vos démarches de réclamations aux infractions NARSA."
+      },
+      "accessible": {
+        "title": "ACCESSIBLE",
+        "description": "Barid Cash met à votre disposition un large réseau d'agences pour traiter vos réclamations aux infractions NARSA en toute facilité."
+      }
+    },
+    "advantages": {
+      "title": "Barid Cash à vos côtés pour vous simplifier votre quotidien !",
+      "accessible": {
+        "title": "UN SERVICE ACCESSIBLE",
+        "description": "Un service accessible où que vous soyez grâce au large réseau Barid Cash."
+      },
+      "simple": {
+        "title": "UN SERVICE SIMPLE ET PRATIQUE",
+        "description": "Le service est disponible du lundi au samedi.\nLes opérations sont simples."
+      },
+      "secure": {
+        "title": "UN SERVICE SÉCURISÉ",
+        "description": "Avec Barid Cash vos opérations sont sécurisées."
+      }
+    },
+    "process": {
+      "title": "Les documents à fournir",
+      "declaration": {
+        "title": "Dans le cas d'une déclaration du conducteur du véhicule :",
+        "description": "La déclaration doit se faire dans un délai de 30 jours à compter de la date de réception de l'avis.",
+        "documents": [
+          "Formulaire signé ;",
+          "Copie de la carte d'identité nationale du déclaré ;",
+          "Copie du permis de conduire du déclaré."
+        ],
+        "society": "Si vous êtes une société, le formulaire doit être signé par le gestionnaire de la société.",
+        "rental": "Si vous êtes une agence de location, le formulaire doit être signé par l'agence de location. Il vous faudra en plus un contrat de location ou le formulaire de déclaration préalablement signé par le client."
+      },
+      "reclamation": {
+        "title": "Dans le cas d'une réclamation :",
+        "documents": [
+          "Le formulaire signé",
+          "Un des justificatifs de cession suivants :"
+        ],
+        "justificatifs": [
+          "L'attestation de mutation délivrée par le centre d'immatriculation",
+          "La copie du formulaire de demande de mutation",
+          "La copie de procuration avec adresse de l'acheteur : si l'adresse n'est pas précise, il faudra joindre la carte d'identité nationale de l'acheteur."
+        ]
+      }
+    },
+    "faq": {
+      "title": "Nous répondons à vos questions",
+      "question1": "Vous vous demandez quels sont les motifs pour lesquels vous pouvez demander l'annulation de la contravention ?",
+      "answer1": "Le destinataire de l'avis de contravention peut demander l'annulation de l'infraction pour l'un des motifs suivants :",
+      "answer1List": [
+        "Utilisation abusive du numéro de la plaque d'immatriculation du véhicule.",
+        "Véhicule déclaré volé avant la date de constatation de l'infraction.",
+        "Véhicule en mission d'urgence."
+      ],
+      "contactButton": "Contactez-nous"
+    }
+  },
+  "narsa": {
+    "hero": {
+      "title": "Services NARSA",
+      "description": "Services NARSA pour vos documents de véhicules."
+    },
+    "content": {
+      "title": "Services NARSA",
+      "description": "Simplifiez vos démarches liées aux véhicules.",
+      "services": {
+        "title": "Services disponibles",
+        "license": "Permis de conduire",
+        "registration": "Carte grise",
+        "complaints": "Réclamations et infractions",
+        "transfer": "Mutation de véhicule"
+      }
+    },
+    "advantages": {
+      "title": "Avantages",
+      "speed": {
+        "title": "Rapidité",
+        "description": "Traitement rapide"
+      },
+      "convenience": {
+        "title": "Confort",
+        "description": "Service en agence"
+      },
+      "support": {
+        "title": "Support",
+        "description": "Assistance disponible"
+      },
+      "security": {
+        "title": "Sécurité",
+        "description": "Transactions sécurisées"
+      }
+    }
+  },
+  "amana": {
+    "hero": {
+      "title": "Les services Amana chez Barid Cash",
+      "description": "Avec Barid Cash, envoyez votre courrier et vos colis en toute sécurité, au Maroc et dans le monde entier, avec le service Amana. Grâce à ce partenariat avec le Groupe Poste Maroc, Barid Cash vous offre les services de messagerie Amana dans un large réseau d'agences."
+    },
+    "content": {
+      "title": "Amana",
+      "description": "Barid Cash met à votre disposition les produits Amana afin de vous permettre l'envoi de colis et de courrier au niveau national et international.",
+      "national": {
+        "title": "Amana National :",
+        "description": "Ce service vous permet la livraison de documents ou de colis partout au Maroc. La livraison est assurée à domicile ou dans une agence Barid Cash la plus proche de chez vous et dans les meilleurs délais."
+      },
+      "international": {
+        "title": "Amana International :",
+        "description": "Ce service vous permet de livrer vos colis à l'étranger dans un délai maîtrisé et garanti allant de 4 à 7 jours ouvrables selon le pays de destination."
+      },
+      "7dak": {
+        "title": "Amana 7dak:",
+        "description": "Ce service vous permet d'envoyer vos colis d'une agence Barid Cash vers une autre agence Barid Cash à des tarifs très compétitifs et spécialement conçus pour la clientèle de Barid Cash."
+      },
+      "discoverButton": "Découvrez nos agences"
+    },
+    "advantages": {
+      "title": "Barid Cash à vos côtés pour vous simplifier vos envois !",
+      "proximity": {
+        "title": "PROXIMITÉ",
+        "description": "Un service accessible où que vous soyez grâce au large réseau Barid Cash"
+      },
+      "expertise": {
+        "title": "EXPERTISE ET DISPONIBILITÉ",
+        "description": "Le service est disponible du lundi au samedi.\nPour l'envoi de vos colis, l'utilisation de Amana vous assure un service fiable, répondant aux meilleures conditions de livraison"
+      },
+      "security": {
+        "title": "SÉCURITÉ",
+        "description": "Lors du processus d'envoi, vos colis sont bien préservés afin d'éviter toute perte, dommage ou vol"
+      },
+      "speed": {
+        "title": "RAPIDITÉ",
+        "description": "Les délais de livraison varient entre 1 à 2 jours au niveau national et de 4 à 7 jours pour les envois à l'international"
+      }
+    },
+    "faq": {
+      "title": "Nous répondons à vos questions",
+      "question1": "Vous vous demandez quels sont les tarifs de chaque produit ?",
+      "answer1": "Vous trouverez l'ensemble des prix de nos produits en cliquant",
+      "here": "ici",
+      "pricingButton": "Voir grille tarifaire",
+      "question2": "Vous vous demandez quelle est l'agence la plus proche de chez vous qui propose ce service ?",
+      "answer2": "C'est simple, il vous suffit de cliquer",
+      "here2": "ici"
+    }
+  },
+  "chronopost": {
+    "hero": {
+      "title": "Les solutions Chronopost chez Barid Cash",
+      "description": "Avec Barid Cash, bénéficiez des services Chronopost où que vous soyez. Grâce à ce partenariat, envoyez vos colis à l'international depuis l'agence Barid Cash la plus proche de chez vous.",
+      "description2": "Avec Barid Cash, bénéficiez des services Chronopost où que vous soyez. Grâce à ce partenariat, envoyez vos colis à l'international depuis l'agence Barid Cash la plus proche de chez vous."
+    },
+    "content": {
+      "title": "Amana International Express AIE",
+      "description": "Ce service vous permet la livraison de documents ou de colis dans plus de 220 pays.",
+      "subtitle": "Amana International Express c'est :",
+      "features": [
+        "Un service express, fiable et flexible ;",
+        "Des délais de livraison rapides : depuis Casablanca, vers :",
+        "l'Europe : J+1",
+        "l'Amérique du Nord : J+2",
+        "l'Amérique latine : J+3",
+        "l'Asie : de J+2 à J+3",
+        "l'Afrique subsaharienne : de J+2 à J+6",
+        "Des colis au poids illimité ;",
+        "Une traçabilité de vos colis en ligne à travers le site : <a href='https://www.chronopost.ma' target='_blank' rel='noopener noreferrer' class='text-[#F27D30] hover:text-[#E76D20] underline'>www.chronopost.ma</a>",
+        "Un service client disponible 6 jours sur 7."
+      ],
+      "expressTitle": "Amana International Express",
+      "expressDescription": "Service de livraison express et fiable pour les colis internationaux avec suivi en temps réel.",
+      "studentOffer": "AIE Étudiant :",
+      "studentDescription": "Cette offre est dédiée aux étudiants. Elle permet de bénéficier d'une remise allant jusqu'à 50% sur le tarif de base, tout au long de l'année, sous réserve que :",
+      "studentConditions": [
+        "L'expéditeur soit un étudiant ou un de ses parents.",
+        "L'adresse de destination soit un établissement scolaire ou universitaire, un foyer ou une résidence d'étudiants."
+      ],
+      "tailorOffer": "AIE Couturiers :",
+      "tailorDescription": "Cette offre est dédiée aux couturiers détenteurs d'une carte privilège Spécial Couturiers. Les pays desservis sont les pays du Moyen-Orient.",
+      "expressMailTitle": "Express Mail Service",
+      "expressMailDescription": "Ce service vous permet la livraison de documents ou de colis à l'étranger dans des délais fiables et avec des tarifs économiques.",
+      "expressMailFeatures": [
+        "Des délais de livraison rapides : de 2 à 6 jours ouvrables, depuis Casablanca, vers les principales destinations ci-après : Italie, Belgique, Allemagne, Pays Bas, Grande Bretagne, Pays du Golf, USA.",
+        "Une traçabilité de vos colis en ligne à travers le site : <a href='https://www.chronopost.ma' target='_blank' rel='noopener noreferrer' class='text-[#F27D30] hover:text-[#E76D20] underline'>www.chronopost.ma</a>",
+        "Une livraison à domicile ;",
+        "Un service client disponible 6 jours sur 7 ;",
+        "Un retour gratuit des envois en cas de non livraison."
+      ],
+      "discoverButton": "Découvrez nos agences"
+    },
+    "advantages": {
+      "title": "Nos nombreux avantages",
+      "proximity": {
+        "title": "PROXIMITÉ",
+        "description": "Un service accessible où que vous soyez grâce au large réseau Barid Cash."
+      },
+      "availability": {
+        "title": "DISPONIBILITÉ",
+        "description": "Le service est disponible du lundi au samedi."
+      },
+      "security": {
+        "title": "SÉCURITÉ",
+        "description": "Lors du processus d'envoi vos colis sont bien préservés afin d'éviter toute perte, dommage ou vol."
+      },
+      "speed": {
+        "title": "RAPIDITÉ",
+        "description": "Les délais de livraison sont rapides et vous permettent de recevoir vos colis où que vous soyez."
+      }
+    }
+  },
+  "cnss": {
+    "hero": {
+      "title": "Services CNSS",
+      "description": "Services CNSS via Barid Cash."
+    },
+    "immatriculation": {
+      "hero": {
+        "title": "Votre immatriculation CNSS",
+        "description": "Barid Cash vous permet de vous inscrire au régime des Travailleurs Non-Salariés directement en agence."
+      },
+      "content": {
+        "title": "Immatriculation des Travailleurs Non-Salariés",
+        "description1": "Jouant le rôle d'organisme de liaison avec la CNSS, Barid Cash vous permet d'effectuer l'immatriculation directement en agence, si vous êtes un travailleur non salarié.",
+        "description2": "Vous pouvez également déclarer vos ayants droits conjoint(e) et enfants directement en agence Barid Cash en vous acquittant des frais d'inscription."
+      },
+      "faq": {
+        "title": "Comment effectuer son immatriculation en tant que travailleur non salarié ?",
+        "step1": "Rendez-vous à l'agence Barid Cash qui permet l'immatriculation CNSS, la plus proche de chez vous muni de :",
+        "step1List1": "Votre carte d'identité nationale ;",
+        "step1List2": "Votre attestation professionnelle et du message d'immatriculation envoyé après acquittement du CPU (Contribution Professionnelle Unique) ;",
+        "step1Note": "En cas de déclaration des ayants droits : conjoint(e) et/ ou enfants présentez votre livret de famille et payez les frais d'inscription.",
+        "step2": "Faites le dépôt des documents mentionnés ci-dessus.",
+        "step3": "Recevez votre reçu et votre numéro d'immatriculation."
+      },
+      "questions": {
+        "title": "Nous répondons à vos questions",
+        "question1": "Vous vous demandez si vous êtes concerné par cette immatriculation ?",
+        "answer1": "Les travailleurs non-salariés assujettis à la contribution professionnelle unique (CPU) concernés par cette immatriculation sont :\n• les commerçants et artisans tenant une comptabilité\n• les auto entrepreneurs\n• les professionnels (exerçant une profession libérale) : médecins, pharmaciens, dentistes, notaires, sages-femmes, kinésithérapeutes…",
+        "question2": "Vous vous demandez quelles sont les pièces à fournir afin de vous inscrire au régime des Travailleurs Non-Salariés ?",
+        "answer2": "Rendez-vous en agence Barid Cash qui propose ce service, la plus proche de chez vous, muni de :\n• Votre carte d'identité nationale valide ou votre titre de séjour valide pour les étrangers (carte de résidence ou carte d'immatriculation)\n• Pièces justificatives de l'appartenance à la catégorie concernée (agrément de profession, diplôme…)\n\nPour la déclaration d'un conjoint :\n• Copie de la carte d'identité nationale valide ou du titre de séjour valide pour les étrangers (carte de résidence ou carte d'immatriculation)\n• Copie de l'acte de mariage\n• Pour le conjoint actif : attestation de travail ou toute pièce justifiant l'activité\n• Pour le conjoint inactif : déclaration sur l'honneur de non activité signée par l'assuré\n• Pour le conjoint divorcé : copie de l'acte de divorce\n• Pour le conjoint décédé : extrait d'acte de décès",
+        "question3": "Vous vous demandez quelles sont les pièces à fournir afin de déclarer votre enfant âgé de moins de 26 ans ?",
+        "answer3": "Rendez-vous en agence Barid Cash qui propose ce service, la plus proche de chez vous, muni de :\n• L'extrait de l'acte de naissance de votre enfant\n• Pour l'enfant âgé de plus de 18 ans : il vous faudra une copie de sa carte nationale d'identité valide ou de son titre de séjour valide pour un étranger (carte de résidence ou carte d'immatriculation)\n• Si votre enfant est scolarisé et âgé entre 21 et 26 ans : il faudra un certificat de scolarité"
+      }
+    },
+    "depotDeDossiers": {
+      "hero": {
+        "title": "Déposez vos dossiers CNSS",
+        "titleLine2": "en agence Barid Cash",
+        "description": "Afin d'être toujours plus proche de vous, Barid Cash vous permet de déposer vos dossiers maladie CNSS directement en agence."
+      },
+      "content": {
+        "title": "Dépôt de dossiers CNSS",
+        "description": "Faisant partie du réseau de proximité agréé pour le dépôt des dossiers de remboursement relatifs à l'assurance maladie obligatoire, les agences Barid Cash vous permettent de déposer vos dossiers maladies CNSS.",
+        "findAgency": "Trouvez l'agence la plus proche de chez vous ! (Carte des agences avec filtre 'ville' et 'CNSS')"
+      },
+      "faq": {
+        "title": "Comment déposer vos dossiers en agence Barid Cash ?",
+        "step1": "Rendez-vous à l'agence Barid Cash qui permet le dépôt des dossiers maladie CNSS, la plus proche de chez vous.",
+        "step2": "Présentez votre dossier maladie dument renseigné.",
+        "step3": "Récupérez votre accusé de réception."
+      },
+      "questions": {
+        "title": "Nous répondons à vos questions",
+        "question1": "Vous vous demandez quels sont les dossiers CNSS qui sont recevables chez Barid Cash ?",
+        "answer1": "Les dossiers déposables chez Barid Cash sont les dossiers, d'un montant inférieur à 4000 Dhs, de remboursement de maladies et les dossiers de remboursement dentaire.",
+        "question2": "Vous vous demandez quels sont les dossiers CNSS qui ne sont pas recevables chez Barid Cash ?",
+        "answer2": "Les dossiers qui ne sont pas recevables sont les dossiers d'un montant supérieur à 4000 Dhs. Pour ces dossiers, l'assuré doit se rendre en agence CNSS directement."
+      },
+      "otherServices": {
+        "title": "Autres services CNSS",
+        "control": {
+          "title": "Contrôle vie",
+          "description": "Effectuez votre contrôle de vie CNSS"
+        },
+        "immatriculation": {
+          "title": "Immatriculation",
+          "description": "Services d'immatriculation CNSS"
+        }
+      }
+    },
+    "controleDeVie": {
+      "hero": {
+        "title": "Services CNSS",
+        "titleLine2": "Contrôle de vie",
+        "description": "Barid Cash vous permet de répondre aux demandes de contrôle de vie."
+      },
+      "content": {
+        "title": "Contrôle vie",
+        "description": "Faisant partie du réseau de proximité agréé pour les services CNSS, les agences Barid Cash vous permettent d'effectuer votre contrôle vie."
+      },
+      "faq": {
+        "title": "Nous répondons à vos questions",
+        "question1": "Vous vous demandez quelles sont les personnes concernées par le contrôle de vie ?",
+        "answer1": "Les personnes concernées sont les bénéficiaires des pensions de vieillesse (retraite) de la CNSS ayant atteint l'âge légal de départ en retraite.",
+        "question2": "Vous vous demandez quand vous devez effectuer votre contrôle de vie ?",
+        "answer2": "L'opération de contrôle de vie est menée chaque année par la CNSS afin d'assurer la continuité du service de la pension. Les personnes concernées reçoivent une lettre ou un SMS de la part de la CNSS les conviant à effectuer leur contrôle de vie.",
+        "question3": "Vous vous demandez quels sont les frais que vous devez payer ?",
+        "answer3": "Les pensionnés de la CNSS sont amenés à payer des frais de service de 10 DHS.",
+        "question4": "Vous vous demandez quels documents sont à fournir ?",
+        "answer4": "Il vous suffit de vous rendre en agence Barid Cash, la plus proche de chez vous, muni de votre carte d'identité nationale en cours de validité."
+      }
+    },
+    "content": {
+      "title": "Services CNSS",
+      "description": "Simplifiez vos démarches CNSS.",
+      "services": {
+        "title": "Services disponibles",
+        "deposit": "Dépôt de dossiers",
+        "control": "Contrôle de vie",
+        "registration": "Immatriculation"
+      }
+    },
+    "advantages": {
+      "title": "Avantages",
+      "convenience": {
+        "title": "Confort",
+        "description": "Service en agence"
+      },
+      "speed": {
+        "title": "Rapidité",
+        "description": "Traitement rapide"
+      },
+      "support": {
+        "title": "Support",
+        "description": "Assistance disponible"
+      },
+      "security": {
+        "title": "Sécurité",
+        "description": "Transactions sécurisées"
+      }
+    }
+  },
+  "produitsAssurance": {
+    "hero": {
+      "title": "Produits d'assurance",
+      "description": "En tant qu'établissement de paiement agréé pour proposer des produits d'assurance inclusive, Barid Cash a développé une gamme de produits de micro-assurance IHTIYATE-AL-MOUSTAKBAL, conçus spécialement pour sa clientèle, et ce à travers un partenariat conclu avec la compagnie d'assurance ATLANTA SANAD et la Caisse Nationale de Retraites et d'Assurances CNRA.",
+      "description2": "A travers ce partenariat, Barid Cash vous propose trois produits d'assurance inclusive offrant une tarification accessible et des modalités de souscription simplifiées. La gamme comprend : l'assurance obsèques IHTIYAT AZAÂ, l'assurance hospitalisation IHTIYAT ISTISHFAÂ et le produit d'épargne IHTIYAT DOUAYER ZMANE, qui vous permettra de vous protéger et de faire face aux aléas de la vie."
+    },
+    "content": {
+      "title": "Nos Produits d'Assurance",
+      "description": "Protégez-vous avec nos produits d'assurance.",
+      "products": {
+        "title": "Produits disponibles",
+        "life": "Assurance vie",
+        "health": "Assurance santé",
+        "vehicle": "Assurance véhicule",
+        "home": "Assurance habitation"
+      },
+      "ihtiyatAzaa": {
+        "title": "IHTIYAT AZAÂ",
+        "subtitle": "L'assurance obsèques",
+        "description": "IHTIYAT AZAÂ est un produit destiné à offrir une prime unique permettant d'aider à couvrir les frais afférents aux obsèques.",
+        "features": [
+          "Un soutien financier considérable",
+          "Un large choix de formules",
+          "Un tarif compétitif",
+          "Une indemnisation immédiate",
+          "Une flexibilité du contrat"
+        ],
+        "learnMore": "En savoir plus"
+      },
+      "ihtiyatIstishfaa": {
+        "title": "IHTIYAT ISTISHFAÂ",
+        "subtitle": "L'assurance hospitalisation",
+        "description": "IHTIYAT ISTISHFAÂ est un produit destiné à offrir une indemnité journalière en cas d'arrêt de travail pour cause d'hospitalisation.",
+        "features": [
+          "Un soutien financier direct qui peut être utilisé à discrétion soit pour aider à couvrir les dépenses médicales non couvertes par l'assurance maladie de base",
+          "Une compensation pour la perte de revenu pour les travailleurs indépendants ou pour ceux qui n'ont pas de congés maladie payés ; ce qui assure ainsi une certaine stabilité financière pendant la période de convalescence",
+          "Une couverture des frais annexes comme le transport, les repas pour les proches, ou les services de garde pour les enfants. Les indemnités peuvent aider à couvrir ces coûts, allégeant le fardeau financier pour la famille",
+          "Une flexibilité de l'utilisation selon les besoins spécifiques de la personne"
+        ]
+      },
+      "ihtiyatDouayerZmane": {
+        "title": "IHTIYAT DOUAYER ZMANE",
+        "subtitle": "Le produit d'épargne",
+        "description": "Ihtiyat Douayer Zmane est un produit innovant et flexible, destiné à constituer une épargne pour faire face aux aléas de la vie. Cette assurance permet d'épargner en toute sérénité pour bénéficier, au terme du contrat, d'une retraite sous forme de capital, de rente certaine ou viagère, selon le besoin.",
+        "features": [
+          "Un montant des cotisations modifiables : Vous avez la possibilité de choisir le montant de la cotisation initiale, de le modifier à tout moment et d'effectuer des versements exceptionnels pour maximiser l'épargne",
+          "Flexibilité du contrat : L'âge normal de jouissance est fixé à 60 ans, mais peut être prolongé jusqu'à 75 ans ou anticipé à partir de 50 ans",
+          "Revalorisation de l'épargne : Grâce au taux de Rendement, composé d'un taux annuel minimum garanti plus une participation aux bénéfices, vous bénéficiez de l'évolution continue de l'épargne"
+        ],
+        "learnMore": "En savoir plus"
+      }
+    },
+    "advantages": {
+      "title": "Avantages",
+      "protection": {
+        "title": "Protection",
+        "description": "Protection complète"
+      },
+      "flexibility": {
+        "title": "Flexibilité",
+        "description": "Produits adaptés"
+      },
+      "support": {
+        "title": "Support",
+        "description": "Assistance disponible"
+      },
+      "coverage": {
+        "title": "Couverture",
+        "description": "Couverture étendue"
+      }
+    },
+    "faq": {
+      "title": "Nous répondons à vos questions",
+      "questions": {
+        "eligibilityAzaa": "Vous vous demandez quelles sont les conditions d'éligibilité à IHTIYAT AZAÂ ?",
+        "eligibilityAzaaAnswer": [
+          "Détenir un compte de paiement",
+          "Avoir entre 18 et 70 ans"
+        ],
+        "documentsAzaa": "Vous vous demandez quelles sont les pièces nécessaires à la souscription à IHTIYAT AZAÂ ?",
+        "documentsAzaaAnswer": "Pour souscrire à l'assurance obsèques IHTIYAT AZAÂ vous aurez besoin de votre carte d'identité en cours de validité.",
+        "eligibilityIstishfaa": "Vous vous demandez quelles sont les conditions d'éligibilité à l'assurance hospitalisation IHTIYAT ISTISHFAÂ ?",
+        "eligibilityIstishfaaAnswer": [
+          "Détenir un compte de paiement",
+          "Avoir entre 18 et 60 ans"
+        ],
+        "documentsIstishfaa": "Vous vous demandez quelles sont les pièces nécessaires à la souscription de l'assurance hospitalisation IHTIYAT ISTISHFAÂ ?",
+        "documentsIstishfaaAnswer": "Pour souscrire à l'assurance hospitalisation IHTIYAT ISTISHFAÂ vous aurez besoin de votre carte d'identité en cours de validité.",
+        "eligibilityDouayer": "Vous vous demandez quelles sont les conditions d'éligibilité à l'assurance Ihtiyat Douayer Zmane ?",
+        "eligibilityDouayerAnswer": "Pour bénéficier de l'assurance Ihtiyat Douayer Zmane il faut être âgé de plus de 18 ans.",
+        "documentsDouayer": "Vous vous demandez quelles sont les pièces nécessaires à la souscription de l'assurance Ihtiyat Douayer Zmane ?",
+        "documentsDouayerAnswer": "Il vous suffit de remplir le formulaire de souscription présent au sein des agences Barid Cash.",
+        "ceilingDouayer": "Vous vous demandez s'il y a un plafond annuel pour les cotisations de l'assurance Ihtiyat Douayer Zmane ?",
+        "ceilingDouayerAnswer": "Le plafond annuel des cotisations est fixé à 10.000 dirhams.",
+        "minimumDouayer": "Vous vous demandez quel est le montant minimum avec lequel vous pouvez souscrire à l'assurance Ihtiyat Douayer Zmane ?",
+        "minimumDouayerAnswer": "Vous pouvez souscrire à l'assurance à partir de 50 DHS / mois."
+      },
+      "cta": {
+        "text": "Découvrez l'agence la plus proche de chez vous"
+      }
+    }
+  },
+  "annoncesLegales": {
+    "hero": {
+      "title": "Payez vos annonces légales",
+      "description": "Barid Cash vous permet de payer vos annonces légales en toute facilité, dans tout le réseau Barid Cash."
+    },
+    "content": {
+      "title": "Barid Cash à vos côtés pour vous simplifier votre quotidien !",
+      "description": "Avec Barid Cash :",
+      "advantages": [
+        "Évitez ou minimisez les déplacements au siège de l'Imprimerie Officielle ;",
+        "Bénéficiez d'un service simple et pratique ;",
+        "Réduisez les délais de publication."
+      ],
+      "process": {
+        "title": "Les étapes à suivre :",
+        "steps": [
+          "Rendez-vous à l'agence Barid Cash la plus proche de chez vous muni de votre référence de paiement et de votre carte d'identité en cours de validité.",
+          "Payez le montant qui vous est dû.",
+          "Continuez le processus en ligne sur le site www.annonceslegales.gov.ma"
+        ]
+      }
+    },
+    "faq": {
+      "title": "Nous répondons à vos questions",
+      "questions": [
+        {
+          "question": "Vous vous demandez quel est le montant que vous devez payer ?",
+          "answer": "Le tarif à payer est calculé automatiquement en fonction du type d'annonces au niveau du portail des Annonces Légales : www.annonceslegales.gov.ma"
+        },
+        {
+          "question": "Vous vous demandez quels sont les documents nécessaires pour le paiement de votre annonce ?",
+          "answer": "Il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous muni de votre référence de paiement et de votre carte d'identité en cours de validité."
+        }
+      ]
+    },
+    "advantages": {
+      "title": "Avantages",
+      "compliance": {
+        "title": "Conformité",
+        "description": "Conformité légale"
+      },
+      "visibility": {
+        "title": "Visibilité",
+        "description": "Large diffusion"
+      },
+      "support": {
+        "title": "Support",
+        "description": "Assistance disponible"
+      },
+      "archives": {
+        "title": "Archives",
+        "description": "Archives sécurisées"
+      }
+    }
+  },
+  "grilleTarifaire": {
+    "hero": {
+      "title": "GRILLE",
+      "titleLine2": "TARIFAIRE"
+    },
+    "content": {
+      "nationalTransfer": {
+        "title": "TRANSFERT D'ARGENT NATIONAL MANDATI EXPRESS",
+        "headers": {
+          "amountRange": "Tranches d'envoi",
+          "smsRate": "Tarif SMS",
+          "rate": "Tarif"
+        },
+        "rows": {
+          "range1": "0 à 50 Dhs",
+          "range2": "51 à 100 Dhs",
+          "range3": "101 à 200 Dhs",
+          "range4": "201 à 500 Dhs",
+          "range5": "501 à 1 000 Dhs",
+          "range6": "1 001 à 2 000 Dhs",
+          "range7": "2 001 à 3 000 Dhs",
+          "range8": "3 001 à 4 000 Dhs",
+          "range9": "4 001 à 5000 Dhs",
+          "range10": "5 001 à 10 000 Dhs",
+          "range11": "Sup à 10 000 Dhs",
+          "free": "Gratuit"
+        }
+      },
+      "westernUnion": {
+        "title": "WESTERN UNION",
+        "headers": {
+          "amountRange": "Tranches d'envoi",
+          "smsRate": "Tarif SMS",
+          "rate": "Tarif"
+        }
+      },
+      "moneyGram": {
+        "title": "MONEYGRAM",
+        "headers": {
+          "amountRange": "Tranches d'envoi",
+          "smsRate": "Tarif SMS",
+          "rate": "Tarif"
+        }
+      },
+      "billPayment": {
+        "title": "PAIEMENT DE FACTURES",
+        "headers": {
+          "service": "Service",
+          "rate": "Tarif"
+        },
+        "services": {
+          "water": "Eau",
+          "electricity": "Électricité",
+          "gas": "Gaz",
+          "phone": "Téléphone",
+          "internet": "Internet"
+        }
+      },
+      "paymentAccount": {
+        "title": "COMPTE DE PAIEMENT",
+        "headers": {
+          "operation": "Opération",
+          "rate": "Tarif"
+        },
+        "operations": {
+          "opening": "Ouverture",
+          "maintenance": "Maintenance",
+          "withdrawal": "Retrait",
+          "deposit": "Dépôt"
+        }
+      },
+      "moneticCard": {
+        "title": "CARTE MONÉTIQUE",
+        "headers": {
+          "operation": "Opération",
+          "rate": "Tarif"
+        },
+        "operations": {
+          "issuance": "Émission",
+          "renewal": "Renouvellement",
+          "replacement": "Remplacement",
+          "withdrawal": "Retrait"
+        }
+      },
+      "baridPay": {
+        "title": "BARID PAY",
+        "headers": {
+          "operation": "Opération",
+          "rate": "Tarif"
+        },
+        "operations": {
+          "registration": "Inscription",
+          "transfer": "Transfert",
+          "payment": "Paiement"
+        }
+      },
+      "eTimbre": {
+        "title": "E-TIMBRE",
+        "headers": {
+          "service": "Service",
+          "rate": "Tarif"
+        },
+        "services": {
+          "timbre": "Timbre",
+          "tax": "Taxe"
+        }
+      },
+      "rokhas": {
+        "title": "ROKHAS",
+        "headers": {
+          "service": "Service",
+          "rate": "Tarif"
+        },
+        "services": {
+          "rokha": "Rokha",
+          "processing": "Traitement"
+        }
+      },
+      "narsa": {
+        "title": "NARSA",
+        "headers": {
+          "service": "Service",
+          "rate": "Tarif"
+        },
+        "services": {
+          "drivingLicense": "Permis de conduire",
+          "vehicleRegistration": "Carte grise",
+          "violations": "Infractions"
+        }
+      },
+      "cnssServices": {
+        "title": "CNSS",
+        "headers": {
+          "service": "Service",
+          "rate": "Tarif"
+        },
+        "services": {
+          "registrationRequest": "Demande d'immatriculation",
+          "registration": "CNSS - Immatriculation",
+          "certificatePrint": "Impression de certificat d'immatriculation",
+          "fileSubmission": "CNSS- dépôt de dossier maladie",
+          "lifeControl": "CNSS - Contrôle de vie",
+          "spouseDeclaration": "Déclaration conjoint",
+          "childDeclaration": "Déclaration Enfant",
+          "member": "membre",
+          "free": "Gratuit"
+        },
+        "payment": {
+          "title": "Paiement mandat CNSS",
+          "headers": {
+            "amountRange": "Tranches d'envoi",
+            "rate": "Tarif"
+          }
+        }
+      },
+      "internationalTransfer": {
+        "title": "ENVOI D'ARGENT À L'INTERNATIONAL VIA WESTERN UNION",
+        "headers": {
+          "amountRange": "Tranches d'envoi",
+          "smsRate": "Tarif SMS",
+          "rate": "Tarif"
+        }
+      },
+      "moneyGramTransfer": {
+        "title": "ENVOI D'ARGENT À L'INTERNATIONAL VIA MONEYGRAM",
+        "headers": {
+          "amountRange": "Tranches d'envoi",
+          "smsRate": "Tarif SMS",
+          "rate": "Tarif"
+        }
+      },
+      "billPaymentServices": {
+        "title": "PAIEMENT DE FACTURES",
+        "headers": {
+          "service": "Service",
+          "rate": "Tarif"
+        },
+        "categories": {
+          "telephony": "Téléphonie et internet",
+          "utilities": "Eau et électricité",
+          "taxes": "Taxes et impôts",
+          "other": "Autres produits"
+        },
+        "services": {
+          "iam": "Facture IAM",
+          "orange": "Facture Orange",
+          "inwi": "Facture Inwi",
+          "srm": "SRM-Casablanca Settat",
+          "amendis": "Amendis",
+          "onee": "ONEE",
+          "onep": "ONEP",
+          "redal": "REDAL",
+          "radeel": "RADEEL",
+          "radeef": "RADEEF",
+          "radeeta": "RADEETA",
+          "srmMarrakech": "SRM - Marrakech Safi",
+          "srmRabat": "SRM - Rabat Salé Kénitra",
+          "srmOriental": "SRM - l'Oriental",
+          "radeet": "RADEET",
+          "srmSousMassa": "SRM - Sous Massa",
+          "radem": "RADEM",
+          "tgr": "TGR",
+          "dgi": "DGI",
+          "carSticker": "Vignette automobile",
+          "payExpress": "PayExpress",
+          "forever": "Forever",
+          "jawazRecharge": "Recharge Jawaz",
+          "legalAnnouncements": "Annonces Légales",
+          "rokhas": "Rokhas"
+        }
+      },
+      "paymentAccountServices": {
+        "title": "COMPTE DE PAIEMENT",
+        "headers": {
+          "operation": "Opération",
+          "rate": "Tarif"
+        },
+        "operations": {
+          "accountOpening": "Ouverture de compte et frais de tenue de compte",
+          "salaryDomiciliation": "Domiciliation de salaire",
+          "balanceConsultation": "Consultation de solde ou historique des opérations",
+          "ribRequest": "Demande de RIB et relevé",
+          "pinReset": "Réinitialisation du code confidentiel",
+          "phoneChange": "Changement du numéro de téléphone mobile",
+          "accountClosure": "Fermeture de compte"
+        },
+        "sections": {
+          "mobileCollection": "ENCAISSEMENT MANDAT PAR CANAL MOBILE",
+          "transferVirement": "TRANSFERT ET VIREMENT"
+        },
+        "mobileOperations": {
+          "nationalCollection": "Encaissement Mandat National",
+          "internationalCollection": "Encaissement Mandat International"
+        },
+        "transferOperations": {
+          "mobileToMobile": "Transfert mobile vers mobile Barid Pay",
+          "mobileToBank": "Transfert mobile vers mobile Al Barid Bank et confrères",
+          "accountToAccount": "Transfert Compte vers compte ABB/BC",
+          "accountToOther": "Transfert compteverscompteconfrère",
+          "receivedTransfer": "Virement reçu"
+        }
+      },
+      "depositWithdrawal": {
+        "depositTitle": "DÉPÔT SUR COMPTE EN AGENCE",
+        "withdrawalTitle": "RETRAIT SUR COMPTE EN AGENCE",
+        "headers": {
+          "amountRange": "Tranches d'envoi",
+          "freeRate": "Tarif Gratuit*",
+          "rate": "Tarif"
+        },
+        "note": "*Hors de frais de timbre"
+      },
+      "mobileEmission": {
+        "title": "TARIFS DE L'ÉMISSION MOBILE VERS AGENCE OU VERS GAB « RETRAIT CARDLESS»",
+        "headers": {
+          "amountRange": "Tranches montants",
+          "rate": "Tarif"
+        }
+      },
+      "fissa3Card": {
+        "title": "LES SERVICES LIÉS À LA CARTE DE PAIEMENT FISSA3",
+        "headers": {
+          "service": "Service",
+          "rate": "Tarif"
+        },
+        "services": {
+          "subscription": "Souscription carte Fissa3",
+          "opposition": "opposition sur carte et réinitialisation du PIN",
+          "pinRecalculation": "Recalcul PIN"
+        }
+      },
+      "moneticCardRecharge": {
+        "title": "RECHARGE COMPTE PAR CARTE MONÉTIQUE",
+        "headers": {
+          "amountRange": "Tranches d'envoi",
+          "rate": "Tarif"
+        }
+      },
+      "amanaServices": {
+        "title": "SERVICE AMANA",
+        "ecommerce": "AMANA E-COMMERCE",
+        "public": "AMANA GRAND PUBLIC",
+        "shopToShop": "AMANA 7DAK ( SHOP TO SHOP)",
+        "headers": {
+          "weightRange": "Tranche de poids",
+          "intraCity": "Intra-ville",
+          "interCity": "Inter-ville",
+          "service": "Service",
+          "rate": "Tarif"
+        },
+        "weightRanges": {
+          "range1": "0,01 - 2 Kg",
+          "range2": "2,01 - 5 Kg",
+          "range3": "5,01 - 10 Kg",
+          "range4": "10,01 - 15 Kg",
+          "range5": "15,01 - 31 Kg",
+          "range6": "0,01 - 1 Kg",
+          "range7": "1,01 - 5 Kg",
+          "range8": "5,01 - 10 Kg",
+          "range9": "10,01 - 15 Kg",
+          "range10": "15,01 - 25 Kg",
+          "range11": "25,01 - 31 Kg",
+          "range12": "0,01 à 2 Kg",
+          "range13": "2,01 à 5 Kg",
+          "range14": "5,01 à 10 Kg",
+          "range15": "10,01 à 15 Kg"
+        }
+      },
+      "partnerProducts": {
+        "title": "PRODUITS ORGANISMES/PARTENAIRES",
+        "headers": {
+          "product": "Produits Organismes",
+          "rate": "Tarif"
+        },
+        "services": {
+          "drivingLicense": "Permis de conduire",
+          "vehicleRegistration": "Carte grise",
+          "violationComplaint": "Réclamation sur les infractions"
+        }
+      },
+      "insurance": {
+        "title": "ASSURANCE INCLUSIVE :",
+        "hospitalization": "Hospitalisation :",
+        "funeral": "Obsèques :",
+        "headers": {
+          "number": "N°",
+          "amount": "Montant",
+          "rate": "Tarif"
+        }
+      },
+      "cnssServices": {
+        "title": "CNSS",
+        "headers": {
+          "service": "Service",
+          "rate": "Tarif"
+        },
+        "services": {
+          "registrationRequest": "Demande d'immatriculation",
+          "registration": "CNSS - Immatriculation",
+          "certificatePrint": "Impression de certificat d'immatriculation",
+          "fileSubmission": "CNSS- dépôt de dossier maladie",
+          "lifeControl": "CNSS - Contrôle de vie",
+          "spouseDeclaration": "Déclaration conjoint",
+          "childDeclaration": "Déclaration Enfant",
+          "member": "membre",
+          "free": "Gratuit"
+        },
+        "payment": {
+          "title": "Paiement mandat CNSS",
+          "headers": {
+            "amountRange": "Tranches d'envoi",
+            "rate": "Tarif"
+          }
+        }
+      }
+    },
+    "footer": {
+      "additionalInfo": "Pour toute information supplémentaire, visitez nos réseaux sociaux :"
+    }
+  },
+  "contactezNous": {
+    "hero": {
+      "title": "Contactez-nous",
+      "description": "Nous sommes là pour vous aider.",
+      "email": "Adresses Mail",
+      "emailValue": "contact@baridcash.ma",
+      "location": "Localisation",
+      "locationValue": "Espace des arts, angle Bd Yacoub Al Mansour et rue Annarjiss - Casablanca - Maroc.",
+      "cta": "Contactez-nous"
+    },
+    "content": {
+      "title": "Contact",
+      "description": "N'hésitez pas à nous contacter.",
+      "info": {
+        "title": "Informations de contact",
+        "phone": "Téléphone",
+        "email": "Email",
+        "address": "Adresse"
+      }
+    },
+    "form": {
+      "title": "Formulaire",
+      "civility": "Civilité",
+      "required": "champ obligatoire",
+      "mr": "Mr",
+      "mrs": "Mme",
+      "lastName": "",
+      "firstName": "Prénom (*)",
+      "email": "Adresse Mail (*)",
+      "phone": "Numéro de Téléphone (*)",
+      "subject": "Objet (*)",
+      "subjectOptions": {
+        "info": "Demande d'informations",
+        "partnership": "Demande de partenariat",
+        "complaint": "Réclamation",
+        "employment": "Demande d'emploi"
+      },
+      "city": "Ville",
+      "message": "Message (*)",
+      "terms": "J'ai lu et j'accepte les conditions générales de confidentialités",
+      "submit": "SOUMETTRE"
+    },
+    "placeholders": {
+      "lastName": "Nom (*)",
+      "firstName": "Prénom (*)",
+      "email": "Adresse Mail (*)",
+      "phone": "Numéro de Téléphone (*)",
+      "subject": "Objet (*)",
+      "city": "Ville",
+      "message": "Message (*)"
+    }
+  },
+  "assistanceClient": {
+    "hero": {
+      "title": "Assistance client",
+      "description": "Notre équipe est là pour vous aider.",
+      "email": "Adresses Mail",
+      "emailValue": "ReclamationBC@baridcash.ma",
+      "location": "Localisation",
+      "locationValue": "Espace des arts, angle Bd Yacoub Al Mansour et rue Annarjiss - Casablanca - Maroc.",
+      "phone": "Numéro de Téléphone",
+      "phoneValue": "06 99 34 15 71",
+      "cta": "Contactez-nous"
+    },
+    "content": {
+      "title": "Support",
+      "description": "Assistance disponible 24h/24.",
+      "channels": {
+        "title": "Canaux de support",
+        "phone": "Téléphone",
+        "email": "Email",
+        "chat": "Chat en ligne"
+      }
+    },
+    "form": {
+      "title": "Formulaire",
+      "civility": "Civilité",
+      "required": "champ obligatoire",
+      "mrs": "Mme",
+      "mr": "Mr",
+      "lastName": "Nom (*)",
+      "firstName": "Prénom (*)",
+      "email": "Adresse Mail (*)",
+      "phone": "Numéro de Téléphone (*)",
+      "subject": "Objet (*)",
+      "city": "Ville",
+      "message": "Message (*)",
+      "terms": "J'ai lu et j'accepte les conditions générales de confidentialités",
+      "submit": "SOUMETTRE"
+    }
+  },
+  "accueil": {
+    "hero": {
+      "title": "Nos solutions entreprises",
+      "description": "Barid Cash met à votre disposition de nombreuses solutions adaptées et sur mesures afin de répondre aux besoins spécifiques de votre entreprise."
+    }
+  },
+  "nousRejoindre": {
+    "hero": {
+      "title": "Vous êtes ambitieux, rejoignez Barid Cash et vivez de réelles perspectives d'évolution.",
+      "description": "Parce que nos collaborateurs constituent le moteur de notre activité, notre ambition est de leur donner les moyens de développer leurs compétences individuelles."
+    },
+    "content": {
+      "title": "Pourquoi rejoindre Barid Cash ?",
+      "reasons": {
+        "workplace": {
+          "title": "Un cadre de travail convivial :",
+          "description": "Rejoindre Barid Cash c'est rejoindre un cadre de travail convivial et stimulant."
+        },
+        "opportunities": {
+          "title": "Des opportunités d'évolution :",
+          "description": "En rejoignant Barid Cash vous avez accès à des perspectives d'avancement et de développement professionnel quel que soit votre domaine."
+        },
+        "impact": {
+          "title": "Un impact sociétal :",
+          "description": "Rejoindre Barid Cash, c'est participer à des projets et des missions avec un impact sociétal."
+        }
+      }
+    },
+    "form": {
+      "title": "Rejoignez-nous !",
+      "civility": "Civilité :",
+      "required": "(champ obligatoire)",
+      "firstName": "Prénom (*)",
+      "lastName": "Nom (*)",
+      "email": "Adresse Mail (*)",
+      "phone": "Numéro de Téléphone (*)",
+      "currentFunction": "Fonction actuelle (*)",
+      "submit": "SOUMETTRE",
+      "upload": "Télécharger CV",
+      "terms": "J'ai lu et j'accepte les conditions générales de confidentialités",
+      "mr": "Monsieur",
+      "mrs": "Madame"
+    }
+  },
+  "faqs": {
+    "hero": {
+      "title": "Vos questions",
+      "description": "Nous répondons à vos questions. Si votre question ne figure pas ci-dessous, nous restons à votre disposition pour y répondre.",
+      "cta": "Assistance Client"
+    },
+    "content": {
+      "title": "Nous répondons à vos questions",
+      "nationalTransfer": {
+        "sending": {
+          "a1": "C'est très simple, il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous avec :",
+          "a1List": [
+            "Une carte d'identité en cours de validité",
+            "Le nom est le prénom du bénéficiaire, tels qu'ils sont indiqués sur sa carte d'identité nationale",
+            "La ville de destination du transfert",
+            "Le montrant que vous souhaitez envoyer"
+          ],
+          "a1App": "Ou bien d'effectuer votre transfert d'argent depuis votre application Barid Pay.",
+          "a2": "Barid Cash vous permet :",
+          "a2List": [
+            "D'informer le bénéficiaire par SMS de notification, gratuit, de la mise à sa disposition des fonds, et du code à présenter pour se faire payer.",
+            "D'être informé par SMS de notification, gratuit, dès que les fonds ont été payés au bénéficiaire."
+          ],
+          "a3": "Selon la réglementation en vigueur, le montant maximum que vous pouvez envoyer est de 80.000 DHS.",
+          "a4": "Oui c'est possible, il suffit de vous présenter à l'agence la plus proche afin d'annuler votre transfert. Si l'annulation est traitée le même jour au sein de l'agence émettrice, vous serez remboursé sur la totalité du montant (sans déduction des frais)."
+        },
+        "receiving": {
+          "a1": "Une fois que le transfert d'argent a été effectué, à la demande de l'émetteur, Barid Cash vous adresse un SMS afin de vous informer de la disponibilité de votre argent ainsi que du code de transfert à présenter en agence pour récupérer vos fonds.",
+          "a2": "C'est très simple, il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous muni :",
+          "a2List": [
+            "De votre carte d'identité en cours de validité",
+            "Du code de transfert"
+          ],
+          "a3": "Vous devez vous présenter dans l'une des agences Barid Cash dans un délai de 60 jours."
+        }
+      },
+      "internationalTransfer": {
+        "sending": {
+          "a1": "Oui, Barid Cash vous permet d'envoyer jusqu'à 10.000 DHS à votre enfant depuis le Maroc vers l'étranger."
+        },
+        "receiving": {
+          "a1": "Il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous muni de votre carte d'identité en cours de validité et du code de transfert.",
+          "a2": "Tous les transferts sont effectués en Dirhams marocains."
+        }
+      },
+      "moneyTransfer": {
+        "title": "Envoi d'argent",
+        "questions": {
+          "q1": "Vous souhaitez envoyer de l'argent au Maroc, d'une ville à une autre, mais vous ne savez pas comment faire ?",
+          "a1": "C'est très simple, il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous avec :",
+          "a1List": [
+            "Une carte d'identité en cours de validité",
+            "Le nom est le prénom du bénéficiaire, tels qu'ils sont indiqués sur sa carte d'identité nationale",
+            "La ville de destination du transfert",
+            "Le montrant que vous souhaitez envoyer"
+          ],
+          "a1App": "Ou bien d'effectuer votre transfert d'argent depuis votre application Barid Pay.",
+          "q2": "Vous vous demandez comment savoir si le bénéficiaire a bien reçu son transfert d'argent ?",
+          "a2": "Barid Cash vous permet :",
+          "a2List": [
+            "D'informer le bénéficiaire par SMS de notification, gratuit, de la mise à sa disposition des fonds, et du code à présenter pour se faire payer.",
+            "D'être informé par SMS de notification, gratuit, dès que les fonds ont été payés au bénéficiaire."
+          ],
+          "q3": "Vous vous demandez quelles est la somme maximale que vous pouvez envoyer ?",
+          "a3": "Selon la réglementation en vigueur, le montant maximum que vous pouvez envoyer est de 80.000 DHS.",
+          "q4": "Vous vous demandez s'il est possible d'annuler un transfert en cours d'exécution ?",
+          "a4": "Oui c'est possible, il suffit de vous présenter à l'agence la plus proche afin d'annuler votre transfert. Si l'annulation est traitée le même jour au sein de l'agence émettrice, vous serez remboursé sur la totalité du montant (sans déduction des frais)."
+        }
+      },
+      "moneyReception": {
+        "title": "Réception d'argent",
+        "questions": {
+          "rq1": "Vous vous demandez comment savoir si votre transfert est disponible pour le récupérer ?",
+          "ra1": "Une fois que le transfert d'argent a été effectué, à la demande de l'émetteur, Barid Cash vous adresse un SMS afin de vous informer de la disponibilité de votre argent ainsi que du code de transfert à présenter en agence pour récupérer vos fonds.",
+          "rq2": "Vous vous demandez quels sont les documents que vous devez fournir lors de la réception de votre transfert ?",
+          "ra2": "C'est très simple, il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous muni :",
+          "ra2List": [
+            "De votre carte d'identité en cours de validité",
+            "Du code de transfert"
+          ],
+          "rq3": "Vous vous demandez quelle est la durée maximale pour récupérer votre argent ?",
+          "ra3": "Vous devez vous présenter dans l'une des agences Barid Cash dans un délai de 60 jours."
+        }
+      }
+    }
+  },
+  "nosPartenaires": {
+    "hero": {
+      "title": "Nos partenaires",
+      "description": "Découvrez nos partenaires de confiance."
+    },
+    "content": {
+      "title": "Partenaires",
+      "description": "Nous collaborons avec des partenaires de qualité.",
+      "categories": {
+        "title": "Catégories",
+        "financial": "Financiers",
+        "technology": "Technologie",
+        "logistics": "Logistique"
+      }
+    }
+  },
+  "baridPayPro": {
+    "hero": {
+      "title": "Barid Pay Pro",
+      "description": "Solution de paiement pour entreprises."
+    },
+    "content": {
+      "title": "Solution professionnelle",
+      "description": "Adaptée aux besoins des entreprises.",
+      "features": {
+        "title": "Fonctionnalités",
+        "management": "Gestion d'équipe",
+        "reports": "Rapports",
+        "integration": "Intégration API"
+      }
+    }
+  },
+  "amanaECommerce": {
+    "hero": {
+      "title": "Amana E-commerce",
+      "description": "Solution de livraison pour e-commerce."
+    },
+    "content": {
+      "title": "Livraison e-commerce",
+      "description": "Optimisez vos livraisons e-commerce.",
+      "features": {
+        "title": "Fonctionnalités",
+        "tracking": "Suivi en temps réel",
+        "integration": "Intégration API",
+        "support": "Support dédié"
+      }
+    }
+  },
+  "baridESign": {
+    "hero": {
+      "title": "Barid E-Sign",
+      "description": "Signature électronique sécurisée."
+    },
+    "content": {
+      "title": "Signature électronique",
+      "description": "Signez vos documents en ligne.",
+      "features": {
+        "title": "Fonctionnalités",
+        "security": "Sécurité maximale",
+        "compliance": "Conformité légale",
+        "efficiency": "Efficacité"
+      }
+    }
+  },
+  "permisConduireMasse": {
+    "hero": {
+      "title": "Permis de conduire en masse",
+      "description": "Service de permis de conduire pour entreprises."
+    },
+    "content": {
+      "title": "Service en masse",
+      "description": "Simplifiez la gestion des permis de conduire.",
+      "features": {
+        "title": "Fonctionnalités",
+        "bulk": "Traitement en masse",
+        "tracking": "Suivi",
+        "support": "Support dédié"
+      }
+    }
+  },
+  "serviceMiseDisposition": {
+    "hero": {
+      "title": "Service de mise à disposition",
+      "description": "Service de mise à disposition de personnel."
+    },
+    "content": {
+      "title": "Mise à disposition",
+      "description": "Solutions de mise à disposition.",
+      "features": {
+        "title": "Fonctionnalités",
+        "flexibility": "Flexibilité",
+        "quality": "Qualité",
+        "support": "Support"
+      }
+    }
+  },
+  "forever": {
+    "hero": {
+      "title": "Forever",
+      "description": "Produits Forever Living."
+    },
+    "content": {
+      "title": "Produits Forever",
+      "description": "Découvrez nos produits Forever Living.",
+      "categories": {
+        "title": "Catégories",
+        "health": "Santé",
+        "beauty": "Beauté",
+        "nutrition": "Nutrition"
+      }
+    }
+  },
+  "solutionsPaiement": {
+    "hero": {
+      "title": "Solutions de paiement",
+      "description": "Solutions de paiement pour entreprises."
+    },
+    "content": {
+      "title": "Solutions",
+      "description": "Adaptées aux besoins des entreprises.",
+      "features": {
+        "title": "Fonctionnalités",
+        "integration": "Intégration",
+        "security": "Sécurité",
+        "support": "Support"
+      }
+    }
+  },
+  "payExpress": {
+    "hero": {
+      "title": "Pay Express",
+      "description": "Solution de paiement express."
+    },
+    "content": {
+      "title": "Paiement express",
+      "description": "Paiements rapides et sécurisés.",
+      "features": {
+        "title": "Fonctionnalités",
+        "speed": "Rapidité",
+        "security": "Sécurité",
+        "convenience": "Confort"
+      }
+    }
+  },
+  "devenirPartenaire": {
+    "hero": {
+      "title": "Devenir partenaire",
+      "description": "Rejoignez notre réseau de partenaires."
+    },
+    "content": {
+      "title": "Partenariat",
+      "description": "Développez votre activité avec nous.",
+      "benefits": {
+        "title": "Avantages",
+        "network": "Réseau étendu",
+        "support": "Support",
+        "growth": "Croissance"
+      }
+    }
+  },
+  "vosQuestions": {
+    "hero": {
+      "title": "Vos questions",
+      "description": "Nous répondons à toutes vos questions."
+    },
+    "content": {
+      "title": "Questions",
+      "description": "Trouvez des réponses à vos questions.",
+      "categories": {
+        "title": "Catégories",
+        "general": "Général",
+        "technical": "Technique",
+        "billing": "Facturation"
+      }
+    }
+  },
+  "nousContacter": {
+    "hero": {
+      "title": "Nous contacter",
+      "description": "Contactez-nous pour toute question."
+    },
+    "content": {
+      "title": "Contact",
+      "description": "Nous sommes là pour vous aider.",
+      "methods": {
+        "title": "Méthodes de contact",
+        "phone": "Téléphone",
+        "email": "Email",
+        "form": "Formulaire"
+      }
+    }
+  },
+  "nosPointsDeVente": {
+    "hero": {
+      "title": "Nos points de vente",
+      "description": "Trouvez l'agence la plus proche de chez vous."
+    },
+    "content": {
+      "title": "Agences",
+      "description": "Réseau d'agences à votre service.",
+      "search": {
+        "title": "Recherche",
+        "city": "Ville",
+        "service": "Service"
+      }
+    }
+  },
+  "nosComptesDePaiements": {
+    "hero": {
+      "title": "Nos comptes de paiements",
+      "description": "Vous voulez ouvrir un compte ? Rien de plus facile !\n\nBarid Cash vous propose des comptes de paiement gratuits et sans frais de tenue de compte, qui vous permettent d'effectuer de manière instantanée et sécurisée une multitude d'opérations financières, directement en agence ou à travers l'application mobile Barid Pay."
+    },
+    "content": {
+      "title": "4 formules pour répondre à vos besoins :",
+      "formulas": {
+        "maly": {
+          "title": "Maly :",
+          "description": "Plafonnée à 1 000dhs, Maly est une formule simple et accessible 24h/24 et 7j/7. Elle permet d'ouvrir votre compte à partir de votre mobile et sans avoir à vous déplacer en agence."
+        },
+        "malyUp": {
+          "title": "Maly UP :",
+          "description": "Plafonnée à 4 000 dhs, Maly UP est une formule simple et accessible, qui vous permet d'ouvrir votre compte à partir de votre mobile et sans avoir à vous déplacer en agence."
+        },
+        "malyPlus": {
+          "title": "Maly + :",
+          "description": "Plafonnée à 20 000 Dhs, Maly + est une formule qui vous permet de mieux gérer votre quotidien."
+        },
+        "malyPremium": {
+          "title": "Maly Premium :",
+          "description": "Plafonnée à 100 000 Dhs, cette formule vous donne davantage de liberté dans la gestion de votre argent."
+        }
+      }
+    },
+    "advantages": {
+      "title": "Les avantages de nos comptes de paiement",
+      "accessibility": {
+        "title": "Accessibilité :",
+        "description": "• Quel que soit l'opérateur téléphonique\n• Quelle que soit la génération du téléphone portable\n• Couverture nationale, aussi bien urbaine que rurale"
+      },
+      "simplicity": {
+        "title": "Simplicité :",
+        "description": "• Facile à utiliser\n• Tarification à l'acte simple et lisible\n• Ergonomie simple et adaptée"
+      },
+      "convenience": {
+        "title": "Commodité :",
+        "description": "• Services disponibles 7j/7 & 24h/24"
+      },
+      "security": {
+        "title": "Sécurité :",
+        "description": "• Système sécurisé via code d'authentification"
+      },
+      "pricing": {
+        "title": "Tarification :",
+        "description": "• Souscription gratuite\n• Sans frais de tenue de compte\n• Tarification à l'acte"
+      }
+    },
+    "process": {
+      "subsidies": {
+        "title": "Recevez vos subventions et vos aides sociales directement sur votre compte",
+        "description": "Barid Cash vous permet de recevoir vos remboursements, vos subventions ainsi que vos aides sociales directement sur votre compte ouvert chez Barid Cash."
+      },
+      "partners": {
+        "title": "Nos partenaires :"
+      },
+      "faq": {
+        "title": "Nous répondons à vos questions",
+        "whoCanHaveAccount": {
+          "question": "Vous vous demandez qui peut avoir un compte Barid Cash ?",
+          "malyAndMalyUp": {
+            "title": "Pour les comptes Maly et Maly Up :",
+            "description": "• Toute personne disposant d'un numéro de téléphone valide et d'une carte d'identité nationale en cours de validité."
+          },
+          "malyPlus": {
+            "title": "Pour le compte Maly + :",
+            "requirements": [
+              "• Etre agé( e ) d'au moins 18 ans",
+              "• Avoir un numéro de téléphone valide"
+            ],
+            "documentsTitle": "Documents requis :",
+            "description": "• Pour les marocains : La carte d'identité nationale en cours de validité\n• Pour les étrangers : Le passeport ou la carte de séjour en cours de validité"
+          },
+          "malyPremium": {
+            "title": "Pour le compte Maly Premium :",
+            "requirements": [
+              "• Etre agé( e ) d'au moins 18 ans",
+              "• Avoir un numéro de téléphone valide"
+            ],
+            "documentsTitle": "Documents requis :",
+            "moroccans": "• La carte d'identité nationale en cours de validité\n• Un justificatif de domicile (quittance d'électricité…)",
+            "foreigners": "• Le passeport ou la carte de séjour en cours de validité\n• Un justificatif de domicile (quittance d'électricité…)"
+          }
+        },
+        "howToOpenAccount": {
+          "question": "Vous vous demandez comment ouvrir un compte de paiement ?",
+          "malyAndMalyUp": "Pour les comptes Maly et Maly UP, l'ouverture du compte peut se faire directement à travers le téléchargement de l'application via Play store ou Apple store.",
+          "malyPlus": "Pour le compte Maly +, il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous, muni de votre carte d'identité en cours de validité, ou passeport si vous êtes étranger résidant au Maroc.",
+          "malyPremium": "Pour le compte Maly Premium, il vous suffit de vous rendre à l'agence Barid Cash la plus proche de chez vous, muni de votre carte d'identité en cours de validité, ou de votre passeport pour les étrangers résidants au Maroc ainsi que d'un justificatif de domicile."
+        },
+        "minimumAmount": {
+          "question": "Vous vous demandez quel est le montant minimum pour ouvrir un compte de paiement ?",
+          "answer": "Il n'y a pas de minimum et l'ouverture de compte est gratuite."
+        },
+        "accountFees": {
+          "question": "Vous vous demandez quels sont les frais de tenue de compte ?",
+          "answer": "Il n'y a aucun frais de tenue de compte."
+        },
+        "emissionOperations": {
+          "question": "Vous vous demandez quelles opérations d'émission vous pouvez effectuer depuis votre compte ?",
+          "description": "Votre compte vous permet d'envoyer de l'argent vers :",
+          "options": [
+            "• Un compte de paiement Barid Cash",
+            "• Un compte de paiement confrère",
+            "• Un compte bancaire confrère",
+            "• Une agence Barid Cash",
+            "• Un guichet automatique."
+          ]
+        },
+        "whatAccountAllows": {
+          "question": "Vous vous demandez qu'est-ce que vous permet votre compte de paiement ?",
+          "description": "Avec votre compte de paiement Barid Cash vous pouvez :",
+          "options": [
+            "• Effectuer des virements",
+            "• Recevoir de l'argent sur votre compte",
+            "• Effectuer des paiements",
+            "• Disposer d'un RIB"
+          ]
+        },
+        "howToFundAccount": {
+          "question": "Vous vous demandez comment alimenter votre compte ?",
+          "description": "Vous pouvez alimenter votre compte en :",
+          "options": [
+            "• Faisant un dépôt au sein de l'agence Barid Cash la plus proche de chez vous ou auprès d'un agent agréé partenaire Barid Cash ;",
+            "• Alimentant votre compte depuis un autre compte bancaire ;",
+            "• Recevant de l'argent d'un compte de paiement confrère ;",
+            "• Recevant de l'argent à travers un virement bancaire."
+          ]
+        },
+        "howToWithdraw": {
+          "question": "Vous vous demandez comment retirer de l'argent de votre compte ?",
+          "description": "Vous pouvez retirer de l'argent de votre compte de différentes manières :",
+          "options": [
+            "• En faisant un retrait en agence ou auprès d'un agent partenaire Barid Cash;",
+            "• En faisant une mise à disposition depuis l'application ;",
+            "• En faisant un retrait par carte depuis un guichet automatique."
+          ]
+        }
+      }
+    },
+    "agencyFinder": {
+      "title": "Installez l'application dès maintenant !",
+      "downloadOn": "Télécharger sur"
+    }
+  },
+  "serviceNames": {
+    "narsa": "NARSA",
+    "cnss": "CNSS",
+    "amana": "AMANA",
+    "change": "CHANGE",
+    "baridESign": "Barid E-Sign"
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "description": "Contactez-nous pour toute question.",
+    "submit": "Envoyer le message",
+    "labels": {
+      "civility": "Civilité",
+      "lastName": "Nom de famille",
+      "firstName": "Prénom",
+      "email": "Adresse e-mail",
+      "phone": "Numéro de téléphone",
+      "subject": "Sujet",
+      "message": "Message"
+    },
+    "placeholders": {
+      "lastName": "Votre nom de famille",
+      "firstName": "Votre prénom",
+      "email": "votre@email.com",
+      "phone": "Votre numéro de téléphone",
+      "subject": "Sujet de votre message",
+      "message": "Votre message..."
+    }
+  },
+  "devenezMandataire": {
+    "title": "Devenez partenaire privilégié de Barid Cash en ouvrant votre agence",
+    "description1": "Avec Barid Cash, devenez partenaire et intégrez l'une des plus grandes institutions du Maroc.",
+    "description2": "Avec le Label ''Mandataire Barid Cash'', ouvrez votre agence et démarrez votre projet dès maintenant !",
+    "description3": "Avec notre accompagnement et la force de la marque Barid Cash, vous aurez tous les avantages nécessaires pour rentabiliser votre projet et fidéliser votre clientèle potentielle !",
+    "contactButton": "Contactez-nous",
+    "productsTitle": "Devenir mandataire avec une panoplie de produits financiers",
+    "productsSubtitle": "Devenir mandataire Barid Cash vous permet l'accès à une panoplie de services financiers, notamment :",
+    "products": {
+      "transfer": "Le transfert d'argent national et international",
+      "bills": "Le paiement de factures, des taxes et de la vignette automobile",
+      "accounts": "L'ouverture de comptes",
+      "egov": "Les services e-gov (e-timbre, annonces légales...)",
+      "narsa": "Les services NARSA",
+      "cnss": "Les services CNSS",
+      "postal": "Les services postaux",
+      "insurance": "Les produits d'assurance ..."
+    },
+    "advantagesTitle": "Les avantages d'être mandataire",
+    "advantagesSubtitle": "En tant que mandataire chez Barid Cash, vous bénéficiez de nombreux avantages, notamment :",
+    "advantages": {
+      "revenue": "Une source de revenus avec des commissions attractives sur chaque transaction.",
+      "services": "Une offre de services évolutive vous permettant d'attirer une nouvelle clientèle.",
+      "range": "Un large éventail de services financiers répondant aux besoins de tous vos clients.",
+      "exclusive": "Des produits exclusifs.",
+      "training": "Une formation complète et continue pour vous aider à réussir dans votre activité.",
+      "support": "Un accompagnement régulier de nos équipes pour répondre à vos besoins.",
+      "technology": "Un accès à une technologie financière agile, pour offrir des services rapides, efficaces et sécurisés à vos clients."
+    },
+    "criteriaTitle": "Les critères pour devenir mandataire",
+    "criteriaSubtitle": "Pour pouvoir devenir mandataire c'est simple, il vous suffit :",
+    "criteria": {
+      "legal": "D'être une personne morale ;",
+      "premises": "De détenir un local."
+    }
+  },
+  "facturesEauElectricite": {
+    "hero": {
+      "title": "Payez vos factures d'eau, d'électricité et de télécom avec Barid Cash",
+      "description": "Avec Barid Cash, vous pouvez payer vos factures depuis l'agence Barid Cash la plus proche de chez vous ou depuis votre téléphone mobile avec l'application BARID PAY."
+    },
+    "advantages": {
+      "title": "Le paiement de vos factures n'a jamais été aussi simple avec Barid Cash",
+      "inAgency": {
+        "title": "En agence :",
+        "steps": [
+          "Rendez-vous à l'agence Barid Cash la plus proche de chez vous, muni de votre facture ou de votre numéro de contrat.",
+          "Payez le montant de votre facture.",
+          "Récupérez votre reçu de paiement."
+        ]
+      },
+      "withBaridPay": {
+        "title": "Avec Barid Pay :",
+        "steps": [
+          "Connectez-vous à votre compte.",
+          "Cliquez sur \"Paiement factures\"",
+          "Sélectionnez \"Nouveau Paiement\"",
+          "Sélectionner le type de facture que vous souhaitez régler",
+          "Réglez votre facture"
+        ]
+      }
+    },
+    "partners": {
+      "title": "NOS PARTENAIRES"
+    },
+    "download": {
+      "title": "Vous n'avez pas encore Barid Pay téléchargez- la dès maintenant !",
+      "description": "Et vous pouvez aussi payer via l'application Barid Pay",
+      "downloadOn": "Télécharger sur"
+    },
+    "faq": {
+      "title": "Vous désirez en savoir plus ?",
+      "cta": "Contactez-nous"
+    }
+  },
+  "nav": {
+    "nousConnaitre": "Nous connaître",
+    "nosServices": "Nos Services",
+    "devenezMandataire": "Devenez mandataire",
+    "serviceClient": "Service Client",
+    "nosPointsDeVente": "Nos points de vente",
+    "accueil": "Accueil",
+    "actualites": "Actualités",
+    "transfertArgentNational": "Transfert d'argent national",
+    "transfertArgentInternational": "Transfert d'argent international",
+    "changeDevises": "Change de devises",
+    "ouvertureCompte": "Ouverture de compte",
+    "typesComptes": "Types de Comptes",
+    "baridPay": "BARID PAY",
+    "carteMonetique": "Carte monétique",
+    "impotsTaxesVignette": "Impôts, taxes, vignette automobile",
+    "tvaIsIrVignette": "TVA, IS, IR, vignette automobile",
+    "eTimbre": "E-timbre",
+    "rokhas": "ROKHAS",
+    "paiementFacturesEauElectricite": "Paiement de factures: Eau, électricité et télécom",
+    "paiementPartenairesAchat": "Paiement partenaires: achat e-commerce, transport",
+    "servicesNarsa": "Services NARSA",
+    "permisConduire": "Permis de conduire",
+    "carteGrise": "Carte grise",
+    "reclamationsInfractions": "Réclamations aux infractions",
+    "mutationVehicule": "Mutation de véhicule",
+    "amanaChronopost": "AMANA et CHRONOPOST",
+    "amana": "Amana",
+    "chronopost": "Chronopost",
+    "servicesCnss": "Services CNSS",
+    "depotDossiers": "Dépôt de dossiers",
+    "controleVie": "Contrôle vie",
+    "immatriculation": "Immatriculation",
+    "produitsAssurance": "Produits d'assurance",
+    "annoncesLegales": "Annonces légales",
+    "vosQuestions": "Vos questions",
+    "nousContacter": "Nous contacter",
+    "baridPayPro": "Barid Pay pro",
+    "amanaPro": "Amana Pro",
+    "baridESign": "Barid e-sign",
+    "renouvellementPermisMasse": "Renouvellement du permis de conduire de masse",
+    "serviceMiseDisposition": "Service de mise à disposition",
+    "forever": "Forever",
+    "payExpress": "Pay Express",
+    "devenirPartenaire": "Devenir partenaire",
+    "nosPointsDeVenteEn": "Nos points de vente",
+    "motDirecteurGeneral": "Mot du Directeur Général",
+    "quiSommesNous": "Qui sommes nous",
+    "actualitesEn": "Actualités",
+    "nousRejoindre": "Nous rejoindre",
+    "nosPartenaires": "Nos partenaires",
+    "grilleTarifaire": "Grille tarifaire",
+    "assistanceClient": "Assistance Client",
+    "nosServicesEn": "NOS SERVICES",
+    "devenirPartenaireEn": "DEVENIR PARTENAIRE",
+    "nousConnaitreEn": "NOUS CONNAITRE",
+    "serviceClientEn": "SERVICE CLIENT"
+  },
+  "eTimbreService": {
+    "hero": {
+      "title": "Payez votre E-timbre en agence ou depuis l'application Barid Pay",
+      "description": "Avec Barid Cash, payez votre E-timbre rapidement et en toute simplicité en agence :",
+      "steps": [
+        "Présentez-vous à l'agence Barid Cash, la plus proche de chez vous, muni de votre référence de paiement.",
+        "Réglez votre e-timbre. Après le règlement, un code de 16 chiffres vous sera envoyé par SMS.",
+        "Complétez votre demande de passeport ou de permis grâce au code reçu."
+      ]
+    },
+    "content": {
+      "title": "Vous n'avez pas encore Barid Pay téléchargez- la dès maintenant !",
+      "description": "Et vous pouvez aussi payer via l'application Barid Pay",
+      "downloadOn": "Télécharger sur"
+    },
+    "advantages": {
+      "title": "Nos avantages",
+      "accessible": {
+        "title": "UN SERVICE ACCESSIBLE",
+        "description": "Un service accessible où que vous soyez grâce au large réseau Barid Cash.",
+        "cta": "Nos agences"
+      },
+      "simple": {
+        "title": "UN SERVICE SIMPLE ET PRATIQUE",
+        "description": "Le service est disponible du lundi au samedi.\nLes opérations sont simples et nécessitent que vous soyez seulement muni de votre référence de paiement."
+      },
+      "secure": {
+        "title": "UN SERVICE SÉCURISÉ",
+        "description": "Avec Barid Cash vos opérations sont sécurisées."
+      }
+    },
+    "faq": {
+      "title": "Nous répondons à vos questions",
+      "whereToPay": {
+        "question": "Vous vous demandez où est ce que vous pouvez payer votre E-timbre ?",
+        "answer": "Vous pouvez payer votre E-timbre en agence Barid Cash ou depuis l'application Barid Pay.",
+        "cta": "Découvrez l'agence la plus proche"
+      },
+      "documents": {
+        "question": "Vous vous demandez quelles sont les pièces à fournir ?",
+        "answer": "Il vous suffit de vous présenter à l'agence Barid Cash muni de votre référence de paiement."
+      },
+      "pricing": {
+        "question": "Vous vous demandez combien vous devez payer ?",
+        "prices": [
+          "Passeport : 500 Dirhams marocains",
+          "Permis port d'arme : 300 Dirhams marocains",
+          "Permis international : 300 Dirhams marocains",
+          "Permis de chasse : 200 Dirhams marocains"
+        ]
+      }
+    }
+  }
+}
